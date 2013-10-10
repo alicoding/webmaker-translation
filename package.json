@@ -1,0 +1,22 @@
+{
+  "name": "webmaker-translation",
+  "version": "0.0.1",
+  "description": "Webmaker Translation backup from Transifex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicoding/webmaker-translation.git"
+  },
+  "keywords": [
+    "transifex",
+    "webmaker",
+    "translation"
+  ],
+  "dependencies": {
+    "request": "latest",
+    "mkpath": "latest",
+    "path": "latest",
+    "commander": "latest"
+  },
+  "author": "The Webmaker Team <webmaker-dev@mozilla.org>",
+  "license": "MPL-2.0"
+}
