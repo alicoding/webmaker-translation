@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "আপনি একটি বিচ্ছিন্ন সূত্র খুঁজে পেয়েছেন ! ",
+    "errorMessage": "দয়া করে  <a href='https://webmaker.org/{{localeInfo.lang}}/search'>একটি অনুসন্ধান করুন</a> অথবা  আপনার  <a href='https://webmaker.org/{{localeInfo.lang}}'>হোমপেজ থেকে ঘুরে আসুন</a>.",
+    "Remix": "পুনর্মিশ্রন ",
+    "Made with": "সাথে তৈরি করা হয়েছে  ",
+    "Details": "বিবরণ ",
+    "errorTitle": "দুঃখিত , আপনি একটি  পেয়েছেন "
+}

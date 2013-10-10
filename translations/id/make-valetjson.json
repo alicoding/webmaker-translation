@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "Anda menemukan berkas yang hilang",
+    "errorMessage": "Silakan coba <a href='https://webmaker.org/{{localeInfo.lang}}/search'>pencarian</a> atau kunjungi <a href='https://webmaker.org/{{localeInfo.lang}}'>laman kami</a>.",
+    "Remix": "Remix",
+    "Made with": "Dibuat oleh",
+    "Details": "Rincian",
+    "errorTitle": "Ups, kamu menemukan"
+}

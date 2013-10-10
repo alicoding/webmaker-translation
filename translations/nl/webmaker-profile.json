@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Je browser zal nu om toestemming vragen om je camera te gebruiken. Dit zal normaal bovenaan je scherm zijn.",
+    "save": "Opslaan",
+    "mystery-error": "Er is iets behoorlijk mis gegaan...",
+    "edit": "Bewerken",
+    "photo": "GIF",
+    "aboutMe": "Over mij",
+    "permission": "Sta alsjeblieft toegang tot je webcam toe",
+    "sucky-browser": "Sorry, maar je browser ondersteunt op dit moment getUserMedia niet!<br/><br/><h1>:{</h1>",
+    "add": "Toevoegen",
+    "logout": "Afmelden",
+    "Likes": "Likes",
+    "denied": "Het lijkt er op dat je ons geen toestemming hebt gegeven om je camera te gebruiken!<br/><br/><h1>:{</h1>",
+    "login": "Aanmelden",
+    "hackable": "Hackable",
+    "Makes": "Makes",
+    "persistFail": "Mislukt om afbeelding naar de server te sturen."
+}

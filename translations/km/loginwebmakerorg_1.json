@@ -1,0 +1,21 @@
+{
+    "Username": "ឈ្មោះ​អ្នក​ប្រើ",
+    "I create an event": "ខ្ញុំ​បង្កើត​ព្រឹត្តិការណ៍​មួយ",
+    "Looks like that isnt your email": "ហាក់​ដូចជា​វា​មិនមែន​ជា​អ៊ីមែល​របស់​អ្នក​ទេ",
+    "Send me emails when": "ផ្ញើ​អ៊ីមែល​មក​ខ្ញុំ​ពេល",
+    "Language": "ភាសា",
+    "I agree to your terms": "ខ្ញុំ​យល់ព្រមជាមួយ <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>លក្ខខណ្ឌ</a> និង <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>ការ​ប្រើប្រាស់</a>",
+    "Your user account was deleted!": "គណនី​អ្នក​ប្រើ​របស់​អ្នក​ត្រូវ​បាន​លុប!",
+    "Email": "អ៊ីមែល",
+    "Delete account?": "លុប​គណនី?",
+    "Are you sure you want to leave?": "តើ​អ្នក​ប្រាកដ​ជា​ចង់​ចាកចេញ​មែន​ឬ?",
+    "Hi": "សួស្ដី",
+    "Delete me forever": "លុប​ខ្ញុំ​ជារៀងរហូត",
+    "Create my account": "បង្កើត​គណនី​របស់​ខ្ញុំ",
+    "Enter your email to confirm:": "បញ្ចូល​អ៊ីមែល​របស់​អ្នក​ដើម្បី​បញ្ជាក់៖",
+    "Display username": "បង្ហាញ​ឈ្មោះ​អ្នក​ប្រើ",
+    "Your preferences failed to save": "ចំណូល​ចិត្ត​របស់​អ្នក​ត្រូវ​បាន​បរាជ័យ​រក្សា​ទុក",
+    "Claim your webmaker space": "ទាមទារ​យក​ទំហំ webmaker របស់​អ្នក",
+    "Your preferences have been saved": "ចំណូល​ចិត្ត​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ទុក",
+    "Send me email updates": "ផ្ញើ​អ៊ីមែល​ឲ្យ​ខ្ញុំ​នូវ​បច្ចុប្បន្នភាព​អំពី Mozilla Webmaker និង​គម្រោង​ផ្សេង​ទៀត"
+}

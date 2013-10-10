@@ -1,0 +1,21 @@
+{
+    "Username": "Użytkownik",
+    "I create an event": "I create an event",
+    "Looks like that isnt your email": "Wygląda, że to nie jest twój email",
+    "Send me emails when": "Wyślij mi mail gdy",
+    "Language": "Język",
+    "I agree to your terms": "Akceptuję Regulamin <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>terms</a>  i Polityke Prywatności <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>conditions</a>",
+    "Your user account was deleted!": "Twoje konto zostało skasowane",
+    "Email": "Email",
+    "Delete account?": "Czy skasować konto ?",
+    "Are you sure you want to leave?": "Are you sure you want to leave?",
+    "Hi": "Cześć",
+    "Delete me forever": "Delete me forever",
+    "Create my account": "Utwórz moje konto",
+    "Enter your email to confirm:": "Wpisz swój email w celu potwierdzenia",
+    "Display username": "Display username",
+    "Your preferences failed to save": "Twoje preferencje nie zostały zapisane",
+    "Claim your webmaker space": "Claim your webmaker space",
+    "Your preferences have been saved": "Preferencje zostaly zapisane",
+    "Send me email updates": "Send me email updates about Mozilla Webmaker and other projects"
+}

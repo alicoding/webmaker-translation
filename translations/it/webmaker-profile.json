@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Il browser chiederà il permesso per usare la tua webcam. Questo di solito si trova nella parte superiore della finestra.",
+    "save": "Salva",
+    "mystery-error": "Qualcosa è andato terribilmente storto...",
+    "edit": "Modifica",
+    "photo": "GIF",
+    "aboutMe": "Informazioni su di me",
+    "permission": "Per favore dai il permesso di accedere alla tua webcam",
+    "sucky-browser": "Mi dispiace ma il tuo browser attualmente non supporta getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Aggiungi",
+    "logout": "Esci",
+    "Likes": "Apprezzamenti",
+    "denied": "Sembra che tu abbia negato il permesso di usare la webcam!<br/><br/><h1>:{</h1>",
+    "login": "Accedi",
+    "hackable": "Hackable",
+    "Makes": "Makes",
+    "persistFail": "Failed to persist image to server."
+}

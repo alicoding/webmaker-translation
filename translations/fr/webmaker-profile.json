@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Votre navigateur va maintenant vous demander la permission d'utiliser votre webcam. Ce sera généralement en haut de votre fenêtre.",
+    "save": "Enregistrer",
+    "mystery-error": "Mmmh, quelque chose s'est très mal passé…",
+    "edit": "Modifier",
+    "photo": "GIF",
+    "aboutMe": "À propos de moi-même",
+    "permission": "Veuillez nous autoriser à utiliser votre webcam",
+    "sucky-browser": "Désolé, mais votre navigateur ne prend pas en charge getUserMedia pour le moment&nbsp;!<br/><br/><h1>:{</h1>",
+    "add": "Ajouter",
+    "logout": "Déconnexion",
+    "Likes": "J'aime",
+    "denied": "Il semble que vous n'ayez pas autorisé l'utilisation de votre webcam&nbsp;!<br/><br/><h1>:{</h1>",
+    "login": "Se connecter",
+    "hackable": "Bidouillable",
+    "Makes": "Créations",
+    "persistFail": "Impossible de conserver une image sur le serveur."
+}

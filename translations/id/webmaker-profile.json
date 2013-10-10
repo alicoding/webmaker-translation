@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Peramban Anda akan menanyakan izin untuk menggunakan kamera. Umumnya Anda dapat menemukannya di bagian atas jendela.",
+    "save": "Simpan",
+    "mystery-error": "Ada masalah nih...",
+    "edit": "Edit",
+    "photo": "GIF",
+    "aboutMe": "Tentang Saya",
+    "permission": "Tambahkan izin untuk mengakses kamera",
+    "sucky-browser": "Maaf, peramban Anda tidak mendukung fitur getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Tambahkan",
+    "logout": "Keluar",
+    "Likes": "Suka",
+    "denied": "Tampaknya Anda tidak memberikan izin untuk menggunakan kamera!<br/><br/><h1>:{</h1>",
+    "login": "Masuk",
+    "hackable": "Campursari",
+    "Makes": "Karya",
+    "persistFail": "Gagal untuk menyimpan gambar di server."
+}

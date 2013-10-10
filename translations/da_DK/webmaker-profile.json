@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Din browser vil nu spørge efter tilladelse til at anvende dit kamera. Du vil som regel se dette i toppen af browser-vinduet.",
+    "save": "Gem",
+    "mystery-error": "Der gik noget helt galt...",
+    "edit": "Rediger",
+    "photo": "GIF",
+    "aboutMe": "Om mig",
+    "permission": "Tillad venligst, at vi får adgang til dit webcam",
+    "sucky-browser": "Beklager - din browser understøtter ikke getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Tilføj",
+    "logout": "Log ud",
+    "Likes": "Synes godt om",
+    "denied": "Det ser ud til, at du ikke har givet os tilladelse til at bruge dit kamera!<br/><br/><h1>:{</h1>",
+    "login": "Log ind",
+    "hackable": "Kan hackes",
+    "Makes": "Projekter",
+    "persistFail": "Failed to persist image to server."
+}

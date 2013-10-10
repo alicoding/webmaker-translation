@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "Você encontrou uma thread perdida!",
+    "errorMessage": "Por favor tente a<a href='https://webmaker.org/{{localeInfo.lang}}/search'>busca</a> ou visite nossa <a href='https://webmaker.org/{{localeInfo.lang}}'>página</a>.",
+    "Remix": "Remixar",
+    "Made with": "Feito com",
+    "Details": "Detalhes",
+    "errorTitle": "Opa, você encontrou uma"
+}

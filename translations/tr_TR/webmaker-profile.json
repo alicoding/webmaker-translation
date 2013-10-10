@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Tarayıcınız şimdi kameranızı kullanmak için izin isteyecek. Bu genellikle pencerenizin en üstünde olur.",
+    "save": "Kaydet",
+    "mystery-error": "Bir şeyler çok kötü ters gitti...",
+    "edit": "Düzenle",
+    "photo": "GIF",
+    "aboutMe": "Hakkımda",
+    "permission": "Lütfen kameranıza erişmemize izin verin",
+    "sucky-browser": "Sorry, but your browser doesn't currently support getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Ekle",
+    "logout": "Çıkış",
+    "Likes": "Beğeniler",
+    "denied": "Öyle görünüyor ki kameranıza erişmemize izin vermemişsiniiz!<br/><br/><h1>:{</h1>",
+    "login": "Giriş",
+    "hackable": "Hackable",
+    "Makes": "Makes",
+    "persistFail": "Failed to persist image to server."
+}

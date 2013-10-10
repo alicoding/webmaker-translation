@@ -1,0 +1,21 @@
+{
+    "Username": "اسم المستخدم",
+    "I create an event": "أنشئ حدث",
+    "Looks like that isnt your email": "يبدو أن هذا ليس البريد الالكتروني الخاص بك",
+    "Send me emails when": "أرسل لي إيميل",
+    "Language": "اللغة",
+    "I agree to your terms": "أوافق على <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>الشروط</a> و <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>الأحكام</a>",
+    "Your user account was deleted!": "تم حذف حساب المستخدم الخاص بك!",
+    "Email": "البريد الالكتروني",
+    "Delete account?": "حذف حساب المستخدم؟",
+    "Are you sure you want to leave?": "هل أنت متأكد أنك تريد المغادرة؟",
+    "Hi": "مرحبا",
+    "Delete me forever": "احذفني للأبد",
+    "Create my account": "أنشئ حسابي",
+    "Enter your email to confirm:": "أدخل بريدك الالكتروني للتأكيد:",
+    "Display username": "أظهر اسم المستخدم",
+    "Your preferences failed to save": "لم نتمكن من حفظ خياراتك",
+    "Claim your webmaker space": "اطلب مساحة صانع الويب الخاصة بك",
+    "Your preferences have been saved": "تم حفظ خياراتك",
+    "Send me email updates": "أرسل لي بريد الكتروني بتحديثات صانع الويب من موزيلا والمشاريع الأخرى"
+}

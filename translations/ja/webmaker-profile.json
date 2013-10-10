@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "ブラウザがコンピュータのカメラの使用許可を求めています。カメラはウィンドウの上部にあるでしょう。",
+    "save": "保存",
+    "mystery-error": "エラーが発生したようです...",
+    "edit": "編集",
+    "photo": "GIF",
+    "aboutMe": "自己紹介",
+    "permission": "コンピュータの Web カメラへのアクセスを許可してください",
+    "sucky-browser": "申し訳ありませんが、ご使用のブラウザは getUserMedia をサポートしていません！<br/><br/><h1>:{</h1>",
+    "add": "追加",
+    "logout": "ログアウト",
+    "Likes": "好きなもの",
+    "denied": "Web カメラの使用が拒否されました！ <br/><br/><h1>:{</h1>",
+    "login": "ログイン",
+    "hackable": "ハック可能",
+    "Makes": "作品",
+    "persistFail": "画像のサーバへの保存に失敗しました。"
+}

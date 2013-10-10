@@ -1,0 +1,21 @@
+{
+    "Username": "Όνομα χρήστη",
+    "I create an event": "I create an event",
+    "Looks like that isnt your email": "Looks like that isn't your email",
+    "Send me emails when": "Send me emails when",
+    "Language": "Γλώσσα",
+    "I agree to your terms": "I agree to your <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>terms</a> and <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>conditions</a>",
+    "Your user account was deleted!": "Ο λογαριασμός του χρήστη σας διεγράφη!",
+    "Email": "Email",
+    "Delete account?": "Διαγραφή λογαριασμού;",
+    "Are you sure you want to leave?": "Είσαι σίγουρος/η ότι θέλεις να φύγεις;",
+    "Hi": "Γεια",
+    "Delete me forever": "Διάγραψέ με για πάντα",
+    "Create my account": "Δημιούργησε το λογαριασμό μου",
+    "Enter your email to confirm:": "Enter your email to confirm:",
+    "Display username": "Display username",
+    "Your preferences failed to save": "Οι προτιμήσεις σας απέτυχαν να σωθούν",
+    "Claim your webmaker space": "Claim your webmaker space",
+    "Your preferences have been saved": "Οι προτιμήσεις σας έχουν αποθηκευτεί",
+    "Send me email updates": "Στείλτε μου ενημερωτικά email σχετικά με το Mozilla Webmaker και άλλα έργα"
+}

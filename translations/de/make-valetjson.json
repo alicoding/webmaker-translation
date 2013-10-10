@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "You found a loose thread!",
+    "errorMessage": "Bitte ein <a href='https://webmaker.org/{{localeInfo.lang}}/search'>Suche</a> probieren oder unser <a href='https://webmaker.org/{{localeInfo.lang}}'>Startseite</a> besuchen.",
+    "Remix": "Remix",
+    "Made with": "Mit Webmaker gemacht",
+    "Details": "nähere Angaben",
+    "errorTitle": "Oops! Ein Fehler ist aufgetreten!"
+}

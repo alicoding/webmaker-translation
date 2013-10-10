@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "You found a loose thread!",
+    "errorMessage": "Please try a <a href='https://webmaker.org/{{localeInfo.lang}}/search'>search</a> or visit our <a href='https://webmaker.org/{{localeInfo.lang}}'>homepage</a>.",
+    "Remix": "সংমিশ্রণ করা",
+    "Made with": "Made with",
+    "Details": "বিস্তারিত",
+    "errorTitle": "Oops, you've found a"
+}

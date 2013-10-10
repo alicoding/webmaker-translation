@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Your browser will now ask you for permission to use your camera. This will usually be at the top of your window.",
+    "save": "Guardar",
+    "mystery-error": "Something went horribly wrong...",
+    "edit": "Editar",
+    "photo": "GIF",
+    "aboutMe": "About Me",
+    "permission": "Por favor permítanos acceder a su camara web",
+    "sucky-browser": "Sorry, but your browser doesn't currently support getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Add",
+    "logout": "Cerrar sesión",
+    "Likes": "Likes",
+    "denied": "Looks like you denied us permission to use your camera!<br/><br/><h1>:{</h1>",
+    "login": "Iniciar sesión",
+    "hackable": "Hackable",
+    "Makes": "Makes",
+    "persistFail": "Failed to persist image to server."
+}

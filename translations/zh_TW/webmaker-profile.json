@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Your browser will now ask you for permission to use your camera. This will usually be at the top of your window.",
+    "save": "儲存",
+    "mystery-error": "看來有什麼東西錯的很嚴重...",
+    "edit": "編輯",
+    "photo": "GIF",
+    "aboutMe": "關於我",
+    "permission": "請允許我們存取您的網路攝影機",
+    "sucky-browser": "Sorry, but your browser doesn't currently support getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "新增",
+    "logout": "登出",
+    "Likes": "讚",
+    "denied": "看來您不允許我們存取您的相機！<br/><br/><h1>:{</h1>",
+    "login": "登入",
+    "hackable": "Hackable",
+    "Makes": "創作們",
+    "persistFail": "Failed to persist image to server."
+}

@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Seu navegador agora perguntará pela permissão para acessar sua câmera.Isto aparecerá normalmente no topo da sua janela.",
+    "save": "Salvar",
+    "mystery-error": "Salvar",
+    "edit": "Editar",
+    "photo": "GIF",
+    "aboutMe": "Sobre mim",
+    "permission": "Por favor nos permita acessar sua webcam",
+    "sucky-browser": "Desculpe, mas o seu navegador atualmente não suporta este recurso!<br/><br/><h1>:{</h1>",
+    "add": "Adicionar",
+    "logout": "Sair",
+    "Likes": "Curtidas",
+    "denied": "Aparentemente você negou a permissão para usarmos sua câmera!<br/><br/><h1>:{</h1>",
+    "login": "Acessar",
+    "hackable": "Hackeável",
+    "Makes": "Meus projetos",
+    "persistFail": "Falha ao gravar a imagem no servidor."
+}

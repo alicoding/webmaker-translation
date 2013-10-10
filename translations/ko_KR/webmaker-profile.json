@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "브라우저가 카메라사용 권한을 확인할 것입니다. 이 메시지는 보통 창의 맨 위에 나옵니다.",
+    "save": "저장",
+    "mystery-error": "무엇인가 잘못되었습니다...",
+    "edit": "수정",
+    "photo": "GIF",
+    "aboutMe": "소개",
+    "permission": "웹캠에 대한 접근 권한을 허용해 주세요.",
+    "sucky-browser": "사용하고 있는 브라우저가 getUserMedia!를 지원하지 않습니다!<br/><br/><h1>:{</h1>",
+    "add": "추가",
+    "logout": "로그아웃",
+    "Likes": "좋아요",
+    "denied": "카메라 사용에 대한 요청이 거부된 것 같습니다!<br/><br/><h1>:{</h1>",
+    "login": "로그인",
+    "hackable": "해킹가능",
+    "Makes": "작품",
+    "persistFail": "서버에서 이미지를 유지하지 못하였습니다."
+}

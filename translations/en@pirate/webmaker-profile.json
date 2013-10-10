@@ -1,0 +1,18 @@
+{
+    "permissionHelp": "Yer browser will now ask ye for permission t' use yer camera. This will usually be at t' top o' yer window, ahoy!",
+    "save": "Sav",
+    "mystery-error": "Shiver me timbers! Somethin's amiss",
+    "edit": "Edit",
+    "photo": "GIF",
+    "aboutMe": "About Me",
+    "permission": "Please allow us to access your webcam",
+    "sucky-browser": "Sorry, but your browser doesn't currently support getUserMedia!<br/><br/><h1>:{</h1>",
+    "add": "Add",
+    "logout": "Logout",
+    "Likes": "Likes",
+    "denied": "Looks like you denied us permission to use your camera!<br/><br/><h1>:{</h1>",
+    "login": "Login",
+    "hackable": "Hackable",
+    "Makes": "Makes",
+    "persistFail": "Failed to persist image to server."
+}
