@@ -1,5 +1,5 @@
 {
-    "code": "El elemento HTML Code (&lt;span style=&quot;font-family: Courier New;&quot;&gt;&amp;lt;code&amp;gt;&lt;/span&gt;) representa un fragmento de código de computadora. Por defecto, se muestra en la tipografía monoespacio por defecto del navegador.",
+    "code": "El elemento HTML Code (&lt;span style=&quot;font-family: Courier New;&quot;&gt;&amp;lt;code&amp;gt;&lt;/span&gt;) representa un fragmento de código de computadora. Se muestra en la tipografía monoespacio predeterminada del navegador.",
     "Disable HTML and CSS hints and suggestions": "Deshabilitar las ayudas de HTML y CSS",
     "Title": "Title",
     "UNTERMINATED_ATTR_VALUE": "&lt;p&gt;El &lt;code&gt;&amp;lt;[[openTag.name]]&amp;gt;&lt;/code&gt;atributo\n&lt;code&gt;[[attribute.name.value]]&lt;/code&gt; de la etiqueta tiene un valor\n&lt;em data-highlight=&quot;[[attribute.value.start]]&quot;&gt;aquí&lt;/em&gt; that\nque no termina con  comillas dobles de cierre.&lt;/p&gt;",
@@ -150,7 +150,7 @@
     "UNTERMINATED_OPEN_TAG": "<p>La etiqueta <code>&lt;[[openTag.name]]&gt;</code> de apertura \n<em data-highlight=\"[[openTag.start]],[[openTag.end]]\">aquí</em>\nno termina con un <code>&gt;</code>.</p>",
     "ins": "El elemento <em>HTML Texto Insertado</em> (<code>&lt;ins&gt;</code>) representa un conjunto de texto que ha sido añadido al documento.",
     "An error occurred": "An error occurred",
-    "rescued your very recent": "We've rescued your very recent changes to this page, but you can click this button to undo them.",
+    "rescued your very recent": "Rescatamos los últimos cambios que habías hecho a la página, pero puedes hacer clic en este botón para deshacerlos.",
     "fieldset": "El elemento HTML <em> fieldset </em>(<span style=\"font-family: Courier New;\">&lt;fieldset&gt;</span>) se utiliza para agrupar varios controles y etiquetas (<code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/label\">&lt;label&gt;</a></code>) \nen un formulario Web.",
     "Share this via&hellip;": "Share this via&hellip;",
     "kbd": "El elemento HTML Keyboard Input (&lt;span style=&quot;font-family: Courier New;&quot;&gt;&amp;lt;kbd&amp;gt;&lt;/span&gt;) produce un elemento en línea representado en la tipografía monotype por defecto del navegador. Este elemento se utiliza para identificar el ingreso de datos del usuario.",
