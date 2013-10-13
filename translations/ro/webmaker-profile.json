@@ -1,10 +1,10 @@
 {
-    "permissionHelp": "Your browser will now ask you for permission to use your camera. This will usually be at the top of your window.",
+    "permissionHelp": "Browser-ul dumneavoastră vă va cere permisiunea de a vă utiliza camera. Acest lucru va fi de obicei în partea superioara a ferestrei dumneavoastră.",
     "save": "Salvează",
-    "mystery-error": "Something went horribly wrong...",
+    "mystery-error": "Ceva a mers oribil de greșit...",
     "edit": "Edit",
     "photo": "GIF",
-    "aboutMe": "About Me",
+    "aboutMe": "Despre mine",
     "permission": "Please allow us to access your webcam",
     "sucky-browser": "Sorry, but your browser doesn't currently support getUserMedia!<br/><br/><h1>:{</h1>",
     "add": "Add",
@@ -14,5 +14,5 @@
     "login": "Login",
     "hackable": "Hackable",
     "Makes": "Makes",
-    "persistFail": "Failed to persist image to server."
+    "persistFail": "Persistarea imaginii pe server a eșuat."
 }
