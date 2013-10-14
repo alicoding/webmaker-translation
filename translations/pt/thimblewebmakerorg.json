@@ -1,11 +1,11 @@
 {
     "code": "The HTML Code Element (<span style=\"font-family: Courier New;\">&lt;code&gt;</span>) represents a fragment of computer code. By default, it is displayed in the browser's default monospace font.",
-    "Disable HTML and CSS hints and suggestions": "Disable HTML and CSS hints and suggestions",
+    "Disable HTML and CSS hints and suggestions": "Desativar HTML e CSS dicas e sugestões",
     "Title": "Título",
     "UNTERMINATED_ATTR_VALUE": "<p>The <code>&lt;[[openTag.name]]&gt;</code> tag's <code>[[attribute.name.value]]</code> attribute has a value <em data-highlight='[[attribute.value.start]]'>here</em> that doesn't end with a closing double quote.</p>",
     "meter": "The HTML <em>meter</em> element (<code>&lt;meter&gt;</code>) represents either a scalar value within a known range or a fractional value.",
     "tbody": "The <em>HTML Table Body Element</em> (<code>&lt;tbody&gt;</code>) defines a set of rows defining the body of the table. Though not mandatory, as the rows of the body can be defined as <code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/tr\">&lt;tr&gt;</a></code>\n elements children of the parent <code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/table\">&lt;table&gt;</a></code>\n element, if present, all <code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/tr\">&lt;tr&gt;</a></code>\n elements part of the body must be included into a unique <code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/tbody\">&lt;tbody&gt;</a></code>\n element.",
-    "There was a problem publishing the page. Your page has been saved": "There was a problem publishing the page. Your page has been saved",
+    "There was a problem publishing the page. Your page has been saved": "Houve um problema ao publicar a página. Sua página foi salva",
     "SELF_CLOSING_NON_VOID_ELEMENT": "<p>The <code>&lt;[[name]]&gt;</code> tag <em data-highlight='[[start]],[[end]]'>here</em> can't be self-closed, because <code>&lt;[[name]]&gt;</code> is not a void element; it must be closed with a separate <code>&lt;/[[name]]&gt;</code> tag.</p>",
     "Tutorials": "Tutoriais",
     "CLOSE_TAG_FOR_VOID_ELEMENT": "<p>The closing <code>&lt;/[[closeTag.name]]&gt;</code> tag <em data-highlight='[[closeTag.start]],[[closeTag.end]]'>here</em> is for a void element (that is, an element that doesn't need to be closed).</p>",

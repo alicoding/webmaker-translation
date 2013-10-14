@@ -158,7 +158,7 @@
     "Then click on the highlighted image": "Then click on the highlighted image. This will reveal its HTML source code.",
     "html-element-docs:figure": "The <em>HTML Figure Element&nbsp;</em>(<span style=\"font-family: Courier New;\">&lt;figure&gt;</span>) represents self-contained content, frequently with a caption&nbsp;(<code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/figcaption\">&lt;figcaption&gt;</a></code>\n)<em><code>,</code></em> and is&nbsp;typically referenced as a single unit. While it is related to the main flow, its position is independent of the main flow. Usually this is an image, an illustration, a diagram, a code snippet, or a schema that is referenced in the main text, but that can be moved to another page or to an appendix without affecting the main flow.",
     "short-element-descriptions:samp": "sample text",
-    "Let us help.": "Let us help.",
+    "Let us help.": "Αφήστε μας να βοηθήσουμε.",
     "html-element-docs:base": "The HTML&nbsp;<em>Base</em> element (<code>&lt;base&gt;</code>) specifies the base URL to use for all relative URLs contained within a document.&nbsp;",
     "table.align": " This enumerated attribute indicates how the table must be aligned in regard of the containing document.",
     "tfoot.valign": "This attribute specifies the vertical alignment of the text within each row of cells of the table header.",

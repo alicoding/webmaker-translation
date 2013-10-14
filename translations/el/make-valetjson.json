@@ -1,8 +1,8 @@
 {
-    "You found a loose thread!": "You found a loose thread!",
-    "errorMessage": "Παρακαλώ δοκιμάστε μία <a href='https://webmaker.org/{{localeInfo.lang}}/search'>αναζήτηση</a> ή επισκεφτείτε την <a href='https://webmaker.org/{{localeInfo.lang}}'>αρχική μας σελίδα</a>.",
+    "You found a loose thread!": "Είσαι στην άκρη του νήματος! Η σελίδα που ψάχνεις μάλλον δεν υπάρχει.",
+    "errorMessage": "Παρακαλώ δοκίμασε μία <a href='https://webmaker.org/{{localeInfo.lang}}/search'>αναζήτηση</a> ή πήγαινε στην <a href='https://webmaker.org/{{localeInfo.lang}}'>αρχική μας σελίδα</a>.",
     "Remix": "Remix",
-    "Made with": "Made with",
-    "Details": "Details",
-    "errorTitle": "Ουπς, βρήκες ένα"
+    "Made with": "Δημιουργήθηκε με",
+    "Details": "Λεπτομέρειες",
+    "errorTitle": "Ωπ! Βρήκες ένα"
 }
