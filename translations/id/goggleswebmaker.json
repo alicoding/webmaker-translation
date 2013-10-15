@@ -643,7 +643,7 @@
     "html-element-docs:optgroup": "In a web form, the HTML <em>optgroup</em> element (&lt;optgroup&gt;) creates a grouping of options within a <code><a rel=\"custom\" href=\"https://developer.mozilla.org/en/HTML/Element/select\">&lt;select&gt;</a></code>\n element.",
     "html.manifest": "Specifies the URI of a resource manifest indicating resources that should be cached locally.",
     "script.language": "Like the type attribute, this attribute identifies the scripting language in use.",
-    "Make": "Make",
+    "Make": "Karya",
     "cannot-redo-html": "<span>Nothing left to redo!</span>",
     "output.for": "A list of IDs of other elements, indicating that those elements contributed input values to (or otherwise affected) the calculation.",
     "bdo.dir": "Text direction in this element.",
