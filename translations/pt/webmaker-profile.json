@@ -11,8 +11,8 @@
     "logout": "Sair",
     "Likes": "Curtidas",
     "denied": "Parece que você nos negou a permissão de acesso à sua câmera!<br/><br/><h1>:{</h1>",
-    "login": "Conectar",
+    "login": "Login",
     "hackable": "Hackeável",
-    "Makes": "Projetos",
+    "Makes": "Criações",
     "persistFail": "Falha ao armazenar imagem no servidor."
 }

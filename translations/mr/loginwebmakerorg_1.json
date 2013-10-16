@@ -1,8 +1,8 @@
 {
     "Username": "वापरकर्ता नाव",
-    "I create an event": "I create an event",
-    "Looks like that isnt your email": "Looks like that isn't your email",
-    "Send me emails when": "Send me emails when",
+    "I create an event": "मी एक कार्यक्रम तयार",
+    "Looks like that isnt your email": "आपला ईमेल नाही असं दिसतंय",
+    "Send me emails when": "मला ईमेल पाठवा जेव्हा",
     "Language": "Language",
     "I agree to your terms": "I agree to your <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>terms</a> and <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>conditions</a>",
     "Your user account was deleted!": "Your user account was deleted!",
