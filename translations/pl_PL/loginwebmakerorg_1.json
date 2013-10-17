@@ -8,7 +8,7 @@
     "Your user account was deleted!": "Twoje konto zostało skasowane",
     "Email": "Email",
     "Delete account?": "Czy skasować konto ?",
-    "Are you sure you want to leave?": "Are you sure you want to leave?",
+    "Are you sure you want to leave?": "Czy chcesz opuścić strone ?",
     "Hi": "Cześć",
     "Delete me forever": "Delete me forever",
     "Create my account": "Utwórz moje konto",
@@ -17,5 +17,5 @@
     "Your preferences failed to save": "Twoje preferencje nie zostały zapisane",
     "Claim your webmaker space": "Claim your webmaker space",
     "Your preferences have been saved": "Preferencje zostaly zapisane",
-    "Send me email updates": "Send me email updates about Mozilla Webmaker and other projects"
+    "Send me email updates": "Chcę otrzymywać emailowe informacje dotyczące Webmakera oraz innych projektow"
 }
