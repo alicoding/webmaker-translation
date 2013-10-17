@@ -2,13 +2,13 @@
     "Username": "Nom d'utilisateur",
     "I create an event": "Je crée un évènement",
     "Looks like that isnt your email": "Il semble que ce ne soit pas votre adresse électronique",
-    "Send me emails when": "M'envoyer des courriers quand",
+    "Send me emails when": "M'envoyer un mail quand",
     "Language": "Langue",
     "I agree to your terms": "J'accepte vos <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>conditions</a> et votre <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>politique de confidentialité</a>",
     "Your user account was deleted!": "Votre compte utilisateur a été supprimé&nbsp;!",
-    "Email": "Courrier électronique",
+    "Email": "Adresse électronique",
     "Delete account?": "Supprimer le compte&nbsp;?",
-    "Are you sure you want to leave?": "Voulez-vous vraiment quitter&nbsp;?",
+    "Are you sure you want to leave?": "Voulez-vous vraiment supprimer votre compte ?",
     "Hi": "Bonjour",
     "Delete me forever": "Supprimer mon compte définitivement",
     "Create my account": "Créer mon compte",
@@ -17,5 +17,5 @@
     "Your preferences failed to save": "L'enregistrement de vos préférences a échoué",
     "Claim your webmaker space": "Créez votre espace webmaker",
     "Your preferences have been saved": "Vos préférences ont été enregistrées",
-    "Send me email updates": "M'envoyer des mises à jour pour Mozilla Webmaker et autres projets"
+    "Send me email updates": "M'avertir des mises à jour pour Mozilla Webmaker et autres projets"
 }
