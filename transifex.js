@@ -46,7 +46,7 @@ function importFromTransifex(options) {
     projectDetails.resources.forEach(function(resourcesDetails) { 
       projectDetails.teams.forEach(function(entry) {
         resourcesPath = resourcesDetails.slug + '/translation/' + entry;
-        var url = BASE_URL + options.project + '/resource/' + resourcesPath + '/?file';console.log(url)
+        var url = BASE_URL + options.project + '/resource/' + resourcesPath + '/?file';
         projectRequest(url, function(error, fileContent){
          if (error) {
             return console.log("Can not return the fileContent");
