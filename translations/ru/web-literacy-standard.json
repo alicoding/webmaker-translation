@@ -7,6 +7,7 @@
     "StandardBuilding": "Разработка",
     "StandardBuildingCodingDesc": "Создание интерактивных событий в сети",
     "StandardConnectingPrivacy": "Конфиденциальность",
+    "StandardFooterTranslate": "Translate the Web Literacy Standard into your language.",
     "StandardExploringSearch": "Поиск",
     "StandardExploringWM": "Принципы действия сети",
     "StandardBuildingInfraDesc": "Понимание стека протоколов TCP/IP",
@@ -14,7 +15,7 @@
     "StandardConnectingDesc": "Участие в событиях в сети",
     "StandardExploringCredibility": "Заслуженное доверие",
     "StandardConnectingSharingPoint2": "Прослеживание изменений, внесённых в веб-ресурсы, создаваемые совместно группами людей",
-    "StandardConnectingSharingPoint3": "Подбирание веб-инструмента, чтобы использовать для конкретного вклада/сотрудничества",
+    "StandardConnectingSharingPoint3": "Подбор веб-инструмента, чтобы использовать для конкретного вклада/сотрудничества",
     "StandardConnectingSharingPoint1": "Разделение ресурса, используя соответствующий аудитории инструмент и формат ",
     "StandardConnectingSharingPoint6": "Использование синхронных и асинхронных инструментов для общения с веб-сообществами, сетями и группами",
     "StandardConnectingSharingPoint4": "Совместное создание веб-ресурсов",
@@ -73,7 +74,9 @@
     "StandardConnectingPrivacyPoint4": "Управление цифровым следом интернет-удостоверения",
     "StandardConnectingPrivacyPoint5": "Выявление и принятие шагов для сохранения важных элементов идентичности закрытыми",
     "StandardCompDescExplore": "Стандарт веб-грамотности составлен из трех составляющих: исследование, <a href='/{{localeInfo.lang}}/standard/building'>разработка</a> и <a href='/{{localeInfo.lang}}/standard/connecting'>связь</a>. В свою очередь каждая составляющая составлена из нескольких умений. Каждое умение состоит из многих навыков.",
+    "StandardFooterButton": "Get involved!",
     "StandardBuildingCoding": "Кодирование/Написание скриптов",
+    "WebLiteracyStandard": "Web Literacy Standard",
     "StandardBuildingInfra": "Инфраструктура",
     "StandardCompDescBuild": "Стандарт веб-грамотности составлен из трех составляющих:<a href='/{{localeInfo.lang}}/standard/exploring'> разработка </a>, созидание и <a href='/{{localeInfo.lang}}/standard/connecting'>связь</a>. В свою очередь каждая составляющая составлена из нескольких умений. Каждое умение состоит из многих навыков.",
     "StandardConnectingSharingDesc": "Совместное создание и обеспечение доступа к веб-ресурсам",
@@ -103,5 +106,5 @@
     "StandardBuildingDesignPoint1": "Выявление различных частей веб-страницы, используя термины, признанные в промышленности",
     "StandardBuildingDesignPoint6": "Использование CSS-тегов для изменения стиля и раскладки веб-страницы",
     "StandardBuildingDesignPoint5": "Демонстрирование различия между внутристрочным, внедрённым и внешним CSS",
-    "StandardBuildingDesignPoint4": "Перестраивание структуры веб-страницы для улучшения её иерархи.. концептуальн.. потока"
+    "StandardBuildingDesignPoint4": "Перестраивание структуры веб-страницы для улучшения её иерархического концептуального потока"
 }
