@@ -209,7 +209,7 @@
     "html-element-docs:style": "शैली तत्व में एक दस्तावेज़ के लिए शैली की जानकारी है. शैली जानकारी आमतौर पर CSS भाषा में जाना चाहिए, इस तत्व के अंदर  (see <a title=\"CSS\" rel=\"internal\" href=\"https://developer.mozilla.org/en/CSS\">CSS</a>).",
     "body.text": "Foreground color of text.",
     "iframe.marginheight": "The amount of space in pixels between the frame's content and its top and bottom margins.",
-    "command.disabled": "Iindicates that the command is not available.",
+    "command.disabled": "Indicates that the command is not available.",
     "a.href": "This is the single required attribute for anchors defining a hypertext source link.",
     "short-element-descriptions:strong": "strong emphasis",
     "button.formaction": "The URI of a program that processes the information submitted by the button.",

@@ -209,7 +209,7 @@
     "html-element-docs:style": "Style 엘리먼트는 문서의 스타일 정보를 갖습니다. 스타일 정보는 이 엘리먼트의 안에 위치해야 하며, 보통 CSS로 작성됩니다.  (여기를 참고 <a title=\"CSS\" rel=\"internal\" href=\"https://developer.mozilla.org/en/CSS\">CSS</a>).",
     "body.text": "문서의 ",
     "iframe.marginheight": "The amount of space in pixels between the frame's content and its top and bottom margins.",
-    "command.disabled": "Iindicates that the command is not available.",
+    "command.disabled": "Indicates that the command is not available.",
     "a.href": "This is the single required attribute for anchors defining a hypertext source link.",
     "short-element-descriptions:strong": "strong emphasis",
     "button.formaction": "The URI of a program that processes the information submitted by the button.",
