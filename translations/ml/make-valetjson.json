@@ -1,8 +1,8 @@
 {
-    "You found a loose thread!": "You found a loose thread!",
-    "errorMessage": "Please try a <a href='https://webmaker.org/{{localeInfo.lang}}/search'>search</a> or visit our <a href='https://webmaker.org/{{localeInfo.lang}}'>homepage</a>.",
-    "Remix": "Remix",
-    "Made with": "Made with",
-    "Details": "Details",
-    "errorTitle": "Oops, you've found a"
+    "You found a loose thread!": "നിങ്ങള്‍ കണ്ടത്തിയതൊരു അയഞ്ഞ തന്തുവാണ്.",
+    "errorMessage": "ഒന്ന് <a href='https://webmaker.org/{{localeInfo.lang}}/search'>തിരഞ്ഞ്</a> നോക്കൂ അല്ലെങ്കില്‍ ഞങ്ങളുടെ <a href='https://webmaker.org/{{localeInfo.lang}}'>ഹോംപേജ്</a> സന്ദര്‍ശിക്കൂ.",
+    "Remix": "റീമിക്സ്",
+    "Made with": "നിര്‍മ്മിച്ചിരിക്കുന്നത്",
+    "Details": "വിശദാംശങ്ങള്‍",
+    "errorTitle": "ക്ഷമിക്കണം, നിങ്ങള്‍ കണ്ടെത്തിയതൊരു "
 }
