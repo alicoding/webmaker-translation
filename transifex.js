@@ -17,7 +17,7 @@ function importFromTransifex(options) {
       if ( err ) {
         return callback( err );
       }
-      fs.writeFile(absPath, JSON.parse(exports, null, 2), { encoding: "utf-8" }, callback);
+      fs.writeFile(absPath, exports, { encoding: "utf-8" }, callback);
     });
   }
 
@@ -42,7 +42,7 @@ function importFromTransifex(options) {
     if (error) {
       return console.log("Can not return the project details");
     }
-    projectDetails = JSON.parse(projectDetails, null, 2);
+    projectDetails = JSON.parse(projectDetails);
     projectDetails.resources.forEach(function(resourcesDetails) {
       projectDetails.teams.forEach(function(entry) {
         resourcesPath = resourcesDetails.slug + '/translation/' + entry;
