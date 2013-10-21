@@ -42,8 +42,8 @@ function importFromTransifex(options) {
     if (error) {
       return console.log("Can not return the project details");
     }
-    projectDetails = JSON.parse(projectDetails);
     projectDetails = JSON.stringify(projectDetails, null, 2);
+    // projectDetails = JSON.stringify(projectDetails, null, 2);
     console.log(projectDetails)
     projectDetails.resources.forEach(function(resourcesDetails) {
       projectDetails.teams.forEach(function(entry) {
