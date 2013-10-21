@@ -43,7 +43,7 @@ function importFromTransifex(options) {
       return console.log("Can not return the project details");
     }
     projectDetails = JSON.parse(projectDetails);
-    projectDetails.resources.forEach(function(resourcesDetails) { 
+    projectDetails.resources.forEach(function(resourcesDetails) { console.log(resourcesDetails)
       projectDetails.teams.forEach(function(entry) {
         resourcesPath = resourcesDetails.slug + '/translation/' + entry;
         var url = BASE_URL + options.project + '/resource/' + resourcesPath + '/?file';
