@@ -42,9 +42,7 @@ function importFromTransifex(options) {
     if (error) {
       return console.log("Can not return the project details");
     }
-    projectDetails = JSON.stringify(projectDetails, null, 2);
-    // projectDetails = JSON.stringify(projectDetails, null, 2);
-    console.log(projectDetails)
+    projectDetails = JSON.parse(projectDetails, null, 2);
     projectDetails.resources.forEach(function(resourcesDetails) {
       projectDetails.teams.forEach(function(entry) {
         resourcesPath = resourcesDetails.slug + '/translation/' + entry;
@@ -54,6 +52,7 @@ function importFromTransifex(options) {
             return console.log("Can not return the fileContent");
           }
           var filename = path.join(entry + '/' + resourcesDetails.name) + '.json';
+          fileContent = JSON.parse(fileContent, null, 2);
           writeFile(filename, fileContent, function( err ) {
             console.log( ( err ? "Error writing " : "Wrote " ) + filename );
           });
