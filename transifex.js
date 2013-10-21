@@ -17,7 +17,8 @@ function importFromTransifex(options) {
       if ( err ) {
         return callback( err );
       }
-      fs.writeFile(absPath, exports, { encoding: "utf-8" }, callback);
+      x = JSON.stringify(exports, null, 2);
+      fs.writeFile(absPath, x, { encoding: "utf-8" }, callback);
     });
   }
 
@@ -52,8 +53,6 @@ function importFromTransifex(options) {
             return console.log("Can not return the fileContent");
           }
           var filename = path.join(entry + '/' + resourcesDetails.name) + '.json';
-          console.log(fileContent)
-          fileContent = JSON.parse(fileContent, null, 2);
           writeFile(filename, fileContent, function( err ) {
             console.log( ( err ? "Error writing " : "Wrote " ) + filename );
           });
