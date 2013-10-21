@@ -51,7 +51,7 @@ function importFromTransifex(options) {
          if (error) {
             return console.log("Can not return the fileContent");
           }
-          var filename = path.join(entry + '/' + resourcesDetails.slug) + '.json';
+          var filename = path.join(entry + '/' + resourcesDetails.name) + '.json';
           writeFile(filename, fileContent, function( err ) {
             console.log( ( err ? "Error writing " : "Wrote " ) + filename );
           });
