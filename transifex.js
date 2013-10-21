@@ -17,8 +17,7 @@ function importFromTransifex(options) {
       if ( err ) {
         return callback( err );
       }
-      x = JSON.stringify(exports, null, 2);
-      fs.writeFile(absPath, x, { encoding: "utf-8" }, callback);
+      fs.writeFile(absPath, JSON.stringify(exports, null, 2), { encoding: "utf-8" }, callback);
     });
   }
 
