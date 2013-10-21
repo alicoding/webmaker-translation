@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "आपको एक ढीला धागा मिल गया!",
+    "errorMessage": "एक प्रयास करें <a href='https://webmaker.org/{{localeInfo.lang}}/search'>search</a> या जाएँ हमारे <a href='https://webmaker.org/{{localeInfo.lang}}'>होमपेज</a>.",
+    "Remix": "पुनर्मिश्रित करे",
+    "Made with": "के साथ बनाया",
+    "Details": "विवरण",
+    "errorTitle": "उफ़, आपको मिल गया है एक"
+}

@@ -1,0 +1,21 @@
+{
+    "Username": "Nom d'utilizaire",
+    "I create an event": "Creï un eveniment",
+    "Looks like that isnt your email": "Sembla qu'es pas vòstra adreça electronica",
+    "Send me emails when": "Me mandar de corrièrs quand",
+    "Language": "Lenga",
+    "I agree to your terms": "Accèpti vòstras <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>condicions</a> e vòstra <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>politica de confidencialitat</a>",
+    "Your user account was deleted!": "Vòstre compte d'utilizaire es estat suprimit&nbsp;!",
+    "Email": "Corrièr electronic",
+    "Delete account?": "Suprimir lo compte&nbsp;?",
+    "Are you sure you want to leave?": "Sètz segur que volètz quitar&nbsp;?",
+    "Hi": "Bonjorn",
+    "Delete me forever": "Suprimir mon compte definitivament",
+    "Create my account": "Crear mon compte",
+    "Enter your email to confirm:": "Picatz vòstra adreça electronica per confirmar&nbsp;:",
+    "Display username": "Afichar lo nom d'utilizaire",
+    "Your preferences failed to save": "L'enregistrament de vòstras preferéncias a fracassat",
+    "Claim your webmaker space": "Demandatz vòstre espaci webmaker",
+    "Your preferences have been saved": "Vòstras preferéncias son estadas enregistradas",
+    "Send me email updates": "Me mandar de mesas a jorn per corrièr electronic de Mozilla Webmaker e d'autres projèctes"
+}

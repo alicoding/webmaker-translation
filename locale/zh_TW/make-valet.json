@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "You found a loose thread!",
+    "errorMessage": "請試著 <a href='https://webmaker.org/{{localeInfo.lang}}/search'>搜尋</a> 或前往我們的 <a href='https://webmaker.org/{{localeInfo.lang}}'>首頁</a>。",
+    "Remix": "混搭",
+    "Made with": "Made with",
+    "Details": "詳情",
+    "errorTitle": "喔喔，您找到了"
+}

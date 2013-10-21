@@ -1,0 +1,21 @@
+{
+    "Username": "ユーザ名",
+    "I create an event": "イベントを作成する",
+    "Looks like that isnt your email": "あなたのメールアドレスではないようです",
+    "Send me emails when": "アカウントが削除されてしまったときは、",
+    "Language": "言語",
+    "I agree to your terms": "サイトの <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>利用規約</a> および <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>プライバシー条件</a> に同意します",
+    "Your user account was deleted!": "アカウントは削除しました。",
+    "Email": "メールアドレス",
+    "Delete account?": "アカウントを削除しますか？",
+    "Are you sure you want to leave?": "本当にここから去りたいですか？",
+    "Hi": "こんにちは",
+    "Delete me forever": "完全に削除する",
+    "Create my account": "アカウントを作成する",
+    "Enter your email to confirm:": "メールアドレス (再確認):",
+    "Display username": "表示名",
+    "Your preferences failed to save": "設定の保存に失敗しました",
+    "Claim your webmaker space": "Webmaker スペースを求める",
+    "Your preferences have been saved": "設定が保存されました",
+    "Send me email updates": "Mozilla Webmaker と他のプロジェクトについての更新情報のメールを受け取る"
+}
