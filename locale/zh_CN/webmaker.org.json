@@ -1,474 +1,339 @@
-{
-    "Back to top": "回到页首",
-    "Title": "标题",
-    "Learn": "Learn",
-    "OFOStartHere": "从这里开始",
-    "Thimble": "嵌环",
-    "Enter a location": "输入一个位置",
-    "Join our Webmaker Mentor email list": "加入我们的Webmaker导师邮件列表保持最新的关键新闻和公告。",
-    "Upload an image": "上传一个图片",
-    "Mozillaian like you": "有我们美好的合作伙伴和想你一样的Mozillians的支持！",
-    "Wordmark only": "只有文字商标",
-    "teachtemplateHelpCopy": "<strong>需要帮助吗？</strong>看看我们的<a href='https://support.mozilla.org/en-US/kb/top-tips-creating-great-teaching-kits'>顶级窍门</a>为创造良好的教学资源。",
-    "Contribute code": "贡献代码",
-    "Get gear.": "得到齿轮。",
-    "a documentary with dynamic links": "一部纪录片的动态链接",
-    "Translate Webmaker": "Translate Webmaker",
-    "layout with the prefix": "布局前缀",
-    "maker-story-translate": "Together we're translating Webmaker into every language on the planet.",
-    "Countries": "国家",
-    "vdo-profile": "一个视频概要来介绍自己给世界",
-    "browserUpgradeWarning": "你的浏览器可能缺少能让Webmaker完整运行所需要的功能。请<a href='http://browsehappy.com/' target='_blank'>升级你的浏览器</a>来获得更佳的体验。",
-    "Upcoming Events": "<em>即将到来的<br/>活动</em>",
-    "Send me email updates": "发邮件给我更新关于Mozilla Webmaker和其他工程",
-    "these are your makes:": "these are your makes:",
-    "We provide starter projects": "We provide <a href='/{{localeInfo.lang}}/starter-makes'>starter projects</a>, <a href='/{{localeInfo.lang}}/teach'>templates</a> and <a href='/{{localeInfo.lang}}/guides'>event guides</a> to inspire teachers and learners at every level to create on the web and share their knowledge with others.",
-    "Get involved with Webmaker.": "参与Webmaker。",
-    "Created by @username": "Created by @{{username}}",
-    "Get Involved Desc": "访问Webmaker团体的支持和连接。",
-    "Created at": "创建于",
-    "Teach page": "教页面",
-    "a hilarious meme": "一个滑稽的点子",
-    "We're techies": "我们技术人员、制造者、教育工作者、家长和其他热情的人关心创建更多的网络素养的世界。我们无处不在支持学习者们: 在我们的家里、办公室、社区、教室和在线。我们相信做一些你热爱的，在线或离线，是最好的学习方式",
-    "Learning through making": "通过创作学习是Mozilla使命的一个核心部分。",
-    "File follow-up bugs": "把随后的错误存档",
-    "Shower your volunteer with love and Mozilla gear": "<strong>用你的爱心和Mozilla机构渲染志愿者</strong>。非常感谢他们（和你）的帮助让Webmaker更好的为每个人。",
-    "My makes": "我的制作过程",
-    "About Emma": "艾玛运行了10-12年黑客干扰在加拿大维多利亚当地的大学计算机室。现在，她和其他导师的工作是推出#GenOpen, 世界上第一个开源项目为了青少年，同时也是由青少年运行。",
-    "I agree to your terms": "I agree to your <a href='/{{localeInfo.lang}}/terms'>terms</a> and <a href='/{{localeInfo.lang}}/privacy'>conditions</a>",
-    "Older": "年长的",
-    "Explore": "Explore",
-    "We are always thrilled to hear from users": "我们一直很高兴能收到用户的来信！这是在Mozilla工作室捕获到的长长的错误列表。",
-    "Name your event": "给你的活动命名",
-    "Me": "自我",
-    "Emma": "艾玛",
-    "How are we doing?": "我们要如何做呢？ ",
-    "a funny remix of your best friend's favourite site": "关于你最好朋友所喜爱的网站的一个混音",
-    "Who are Webmaker mentors?": "Webmaker导师是谁？",
-    "Contact": "联系",
-    "From starter make": "从第一步做起",
-    "teachHeader": "Let's teach the web!",
-    "X-Ray Goggles": "X射线镜",
-    "Webmaker mentors get access": "Webmaker导师拥有访问那些受人喜欢的Mozilla机构， 像贴纸， 恤衫， 广告横幅， 来激发学习者，并让活动变得更美好。 <a href='mailto:makerparty@mozilla.org'>请联系我们</a>来了解更多。",
-    "OFOShare": "分享你所做的",
-    "maker-story-amy": "Let’s foster lovely experiences and impromptu creativity on a global scale. Dare to make and share!",
-    "Home": "主页",
-    "You are not signed in": "你还没有登录",
-    "4 hours, 2 weeks": "4 hours or longer, 2 weeks of preparation needed",
-    "Submit a bug on Bugzilla": "在Bugzilla上提交漏洞",
-    "Privacy": "隐私",
-    "Getting Started with Bugzilla": "Bugzilla 入门指南",
-    "PartyDontKnowDesc2": "或者遵循这些简易活动包的其中一个",
-    "TeachTemplates": "教导模板",
-    "toolsXrayDesc": "在互联网上，x射线镜能够让你看到那些用来编写网站的结构模块。激活射线镜，可以让你察看每个网页背后的代码，然后重新一个点击的元素，替换为你自己的文字，图像等。",
-    "PartyDontKnowHeader": "Don't know where to start making or teaching?",
-    "Mozilla Webmaker": "Mozilla网站编程员",
-    "Familiarize yourself with our survey": "通过<a href='http://mzl.la/survey-summer2013' target='_blank'>调查问卷</a>熟悉我们。",
-    "Learn and teach new hacking skills": "学习和教授新的黑客技巧",
-    "Need Help?": "Need Help?",
-    "Team up to explore": "与拥有不同技术人合作去探索一个有趣的挑战",
-    "Status": "状态",
-    "indexHeader": "与网页制作者创作项目",
-    "Cities": "城市",
-    "Say hello on a Webmaker cummunity call": "在<a href='//wiki.mozilla.org/Webmakers/Community_Calls'>网页制作者社区访问</a>上问好。",
-    "see how it works": "我们已经建立了一切， 这样你就能了解它如何工作， 把它拆分再重新组合。",
-    "Contribute a guide or resource": "贡献指南或资源",
-    "Are you sure you want to delete this make?": "你确定要删除这创造吗?",
-    "Feedback": "反馈",
-    "PartyDontForgetShareProject": "分享你的项目工程",
-    "Where?": "在哪里？",
-    "teachingkit": "教材套",
-    "Submitted by": "提交",
-    "OFOFAQDesc": "有疑问吗？先查看<a href='https://wiki.mozilla.org/Maker_Party/FAQs'>此处</a>。",
-    "Hosting Webmaker events": "<a href='/{{localeInfo.lang}}/events'>Hosting Webmaker events</a> to share your knowledge both in-person and online.",
-    "Make somethingPartyPage": "Events are always happening. See what is going on near you.",
-    "eventHeader": "想和其他人一起编写网站吗？",
-    "Details": "详细资料",
-    "Party": "聚会",
-    "This is the G+ community": "G+社区是给任何一个对教授网站有兴趣的人。参加讨论，寻找有用的资源，了解其他人的制作项目和学习状况。",
-    "Hang out as a family on the computer": "Hang out as a family on the computer",
-    "Tweet #teachtheweb": "推文#教授网站",
-    "We recognize that innovation can come from anyone": "我们认识到，创新可以来自任何人，任何地方，所以我们聚集了不同技能和背景的人&mdash教师，电影制作人，<a href='http://mozillaopennews.com/'>记者</a>， 黑客，青少年，艺术家，<a href='http://kaythaney.com/'>科学家</a>，决策者等&mdash一起在全球各地的事件项目上在线合作。",
-    "Expand your network.": "扩大你的交际圈。",
-    "Our goal:": "我们的目标：",
-    "Communicate": "交流",
-    "About Us Desc": "了解更多关于我们和让我们荣耀的是什么。",
-    "mobile unsupport": "嘿，如你所见，这个网站的部分功能无法在移动设备上使用。",
-    "A global community that wants": "一个想要正确教授网络的全球社区正在创建一个<a href='https://wiki.mozilla.org/Learning/WebLiteracyStandard'>网络素养标准</a>。 我们试图在读、写和网络参与所需要的技能、能力和文化达成共识——在现在和未来。",
-    "teachBanner": "<strong>Join us! </strong><a href='https://mozteach.makes.org/thimble/become-a-webmaker-mentor'>Become a Mozilla Webmaker Mentor</a> and help learners around the world level up their skills. It’s all part of our <a href='http://webmaker.org/{{localeInfo.lang}}/mentor'>non-profit mission</a> to spread web skills and digital creativity for all.",
-    "Get Together": "Get Together",
-    "Submit a bug for Webmaker.org": "给Webmaker.org提交漏洞",
-    "Share Your Project": "活动指南",
-    "Let us help.": "让我们来帮助。",
-    "Contribute code paragraph": "网站制作者的工具都是开放资源。 贡献你的想法，补丁，漏洞或者演示和样板。访问文档、问题跟踪器等更多。",
-    "Next step help": "正在为下个步骤寻找帮助吗？ 来查看我们简便的",
-    "All": "全部",
-    "Stay in touch.": "保持联系",
-    "Shape standards.": "标准塑造。",
-    "Community": "社区",
-    "Sign in to save": "登录后保存",
-    "Making the web physical": "把网络实体化",
-    "Teach the web paragraph": "You don’t need to be a wizard to teach the web. We've created <a href='/{{localeInfo.lang}}/teach'>hackable guides</a> for teaching web literacy, webmaking, online storytelling and more. Want to create your own lesson plan? We have <a href='/{{localeInfo.lang}}/teach-templates'>great templates</a> for that.",
-    "PNG": "PNG",
-    "Host a user testing paragraph": "用户测试会议是当你坐下来和用户商谈时，让他们探索网站， 然后根据他们的反应来填写调查问卷。 对我们来说这些会议是非常有帮助的，因为这样用户能够专注于探索网站，而你负责准确报告他们的体验。",
-    "Wait, there's more!": "等等，还有更多呢！",
-    "join-cta": "Join others at a local event or Maker Party &ndash; or collaborate online",
-    "Made by": "Made by",
-    "Meet some amazing mentors.": "与了不起的导师接触。",
-    "Num of Attendees expected": "你预计会有多少参与者？",
-    "Submit a bug now": "现在就反馈一个错误",
-    "front-page-description": "We're a global community dedicated to teaching digital skills and web literacy. We explore, tinker and create together to build a web that's open and made by everyone.",
-    "Spend an hour on a rainy day": "在阴雨天花一个小时",
-    "Starter Make": "Starter Make",
-    "Mozilla's annual Maker Party": "Mozilla's annual <a href='/{{localeInfo.lang}}/party'>Maker Party</a> and the <a href='http://mozillafestival.org/'>Mozilla Festival</a> attract thousands of eager learners, not to mention filmmakers, journalists, politicians, artists and inventors.",
-    "Become a mentor paragraph": "成为导师，是一个与全世界各年龄阶段、渴望学习计算机技术的人们分享自己知识，并且直接反馈交流的机会。",
-    "Created by": "Created by",
-    "Grow your reach.": "增长你的能力。",
-    "how are we doing sub": "对我们来说，能够收到你们关于体验Webmaker的意见是非常重要的。事实上，当我们规划未来网站的改善，我们考虑到的第一样东西绝大多数都是你们的反馈。请花点时间告诉你喜欢这个网站那些地方，那些地方是你期待它可以运行但却不能运行，还有就是那些地方可以做得更好。",
-    "Optional": "可选的",
-    "A Hive Pop-Up is fantastic way to:": "蜂房弹出是很好的方法：",
-    "join-cta-bullet-1": "Find an <a href=\"/{{localeInfo.lang}}/events\">event</a> or maker party near you.",
-    "join-cta-bullet-2": "Host your own event. Our <a href=\"/{{localeInfo.lang}}/teach\">guides</a> make it easy.",
-    "join-cta-bullet-3": "Teach and learn with others online using Webmaker's new <a href=\"https://togetherjs.com/\">Together.js</a> (coming soon)",
-    "Start making": "Start making",
-    "Maker Party Logo": "Maker派对徽标",
-    "Manilla, Philippines": "Manilla, Philippines",
-    "event guides": "活动指南",
-    "OFOReportDesc": "修改这个链接来告诉我们你的活动情况： <a href='https://mozteach.makes.org/thimble/maker-party-report'>报告模板</a>。",
-    "Event Guides": "活动指南",
-    "Filter the gallery": "Filter the gallery",
-    "Join our community call": "加入我们每星期二的社区拜访活动。欢迎你们的光临！通过问问题，接触我们社区和员工来找到你需要的资源。",
-    "Event Admin": "活动负责人",
-    "Attendees": "参与者",
-    "mozilla-uganda-post": "<a href=\"http://mozilla-uganda.org/blog/?p=269\">Mozilla Uganda</a>",
-    "start-making-desc": "Webmaker tools  make it easy to learn web skills through making. Dive into one of these community projects to get started",
-    "Legal": "法律声明",
-    "teachtemplateKitDesc": "创建一个课程计划或者讲义大纲",
-    "Ansar Orphanage, India": "Ansar Orphanage, India",
-    "What are you looking for?": "你在找什么？",
-    "Save": "保存",
-    "PlanningAnEvent": "Planning an event? Let us help!",
-    "Hello.": "你好",
-    "privacy policy": "隐私权政策",
-    "Community center, library, school": "在社区，图书馆或学校之类的开放空间",
-    "Submit a bug for Popcorn Maker": "给Popcorn Maker提交漏洞",
-    "Contribute a guide or resource paragraph": "Do you have a web literacy project? We'd love to hear about it and potentially share it on Webmaker.org.",
-    "Use our Tools Desc": "用 Popcorn Maker 或 Thimble 创建原创或重组的Make。",
-    "active daily discussion paragraph": "在这个更为活跃的日常讨论中，你可以帮助 Webmaker 项目确立发展方向。",
-    "Make something": "Make Something",
-    "OFOOrderDesc": "提交你机构的<a href='https://intlstore.mozilla.org/makerparty/'>订单</a>来获得体恤衫，贴纸和横幅。",
-    "Jon": "乔恩",
-    "9 Ways to get Involved parapgraph": "Mozilla Webmaker creates software, projects and events that promote web literacy through making and sharing. We're an open source project powered by makers, mentors and community leaders. We'd love you to get involved.",
-    "We teach the web": "We teach the web",
-    "Starter Makes": "初始项目工程",
-    "Receive occasional email paragraph": "不定期收到的电子邮件只更新些最重要的事情&mdash;大约一个月一次。",
-    "OFOFAQ": "常见问题解答",
-    "Delete": "删除",
-    "Join our global conversation forum.": "加入我们的全球对话论坛",
-    "created": "创建",
-    "an online poster for your favourite movie": "你最喜欢的电影的在线海报",
-    "Event ends": "活动结束",
-    "A Hack Jam is a great way to": "黑客果酱是一个很棒的方式去:",
-    "Make something paragraph": "Making is the basis of everything we do. Try remixing one of our <a href='/{{localeInfo.lang}}/starter-makes'>starter makes</a>, or make something from scratch using <a href='https://goggles.webmaker.org/{{localeInfo.lang}}'>X-Ray Goggles</a>, <a href='https://thimble.webmaker.org/{{localeInfo.lang}}'>Thimble</a>, or <a href='https://popcorn.webmaker.org/{{localeInfo.lang}}'>Popcorn Maker</a>. Then share it with the world using hashtag <a href='/{{localeInfo.lang}}/search?type=tags&q=webmaker'>#webmaker</a>.",
-    "DetailsShareTwitterMsg": "看看 Webmaker.org 上这些棒极了的项目:",
-    "Event Metrics": "活动指标",
-    "teachDesc": "We've got creative ways to help <em>anyone</em> teach <a href='/{{localeInfo.lang}}/standard'>web literacy</a>, digital skills and making. Use our free <a href='/{{localeInfo.lang}}/tools'>tools</a>, activities and lesson plans. <a href='/{{localeInfo.lang}}/teach-templates'>Or make your own</a> &ndash; with help from our <a href='https://plus.google.com/communities/106022863174952221205'>global community</a> of educators, techies and mentors like you.",
-    "Sign up for email updates": "注册来获得电子邮件更新",
-    "Become a Mentor Desc": "为全世界各年龄的学习者提供直接反馈",
-    "Check out your page": "查看你的页面：",
-    "Donate to Webmaker paragraph": "作为非营利性机构，我们依靠像慷慨如您的人们的资助，去鼓励全世界上千万人由使用网络跃升为创造网络。",
-    "OverviewForOrganizers": "聚会组织者简介",
-    "Hack Jam": "黑客果酱",
-    "Mozilla": "Mozilla",
-    "Confirm event deletion": "确认要永久删除这个活动吗？",
-    "intermediate": "intermediate",
-    "Newer": "新",
-    "Search": "搜索",
-    "Start from scratch": "从头开始",
-    "maker-story-yoe": "I love sharing knowledge and skills.",
-    "Join us": "Join us",
-    "Amy Burvall": "Amy Burvall, Webmaker Fellow, teacher and remix artist",
-    "PartyPartnersDesc": "有兴趣成为我们的第三方合作伙伴和想了解更多信息吗？发邮件到我们的邮箱<a href='mailto:makerparty@mozillafoundation.org'>makerparty@mozillafoundation.org</a>。",
-    "when we understand the building blocks": "毕竟，只有当我们理解网络的构造后我们才能有能力塑造它的未来。",
-    "Explore our mentoring program": "探索我们的辅导计划",
-    "Event begins": "活动开始于",
-    "Kitchen Party Logo": "厨房派对徽标",
-    "Make cool things on the web": "在网站上创作有趣的事情",
-    "You are displaying the": "你在展示",
-    "Featured": "Featured",
-    "New York": "New York",
-    "Become a mentor": "成为导师",
-    "Cancel": "取消",
-    "error-404": "404: You found a loose thread!<br>Please try a <a href='/{{localeInfo.lang}}/search'>search</a> or visit our <a href='/{{localeInfo.lang}}'>homepage.</a>",
-    "teachtemplateActivityDesc": "创建一个较小的,很小的活动",
-    "encourage millions of people": "鼓励全世界上千万人由使用网络跃升为创造网络。",
-    "Logos and Partner Stuff": "徽标和第三方合作伙伴的东西",
-    "and more!": "还有更多！",
-    "Not sure what to make?": "Not sure what to make?",
-    "10 - 50 participants": "10 - 50 参与者",
-    "Creating and sharing resources": "<a href='/{{localeInfo.lang}}/teach'>Creating and sharing resources</a> like teaching guides, kits and activities with other techies and educators.",
-    "Learn to hack with a friend": "和朋友一起学习破解",
-    "Hack it.": "Hack it.",
-    "Kitchen Party Planning Guide": "厨房派对策划指南",
-    "Users": "用户",
-    "You can build:": "You can build:",
-    "Log in to add an Event": "登录来添加事件",
-    "toolsHeader": "用Webmaker工具去创建和重新组合网站。",
-    "4 hours, 2-4 weeks": "4小时或更长时间，需要2-4周的准备",
-    "Webmaker uses Persona, a secure way to sign in.": "Webmaker使用Persona，一种安全的方式进行登录。",
-    "Gallery": "Gallery",
-    "Remix": "重新组合",
-    "Find an Event": "查找项目",
-    "Standard logo": "标准徽标",
-    "Fill out our survey": "填写我们的调查问卷",
-    "Advertize your event": "Tell people a few more details about your event. What can they expect?",
-    "Login": "登录",
-    "Tools": "Tools",
-    "teachtemplateDesc": "创建一个<strong>完整的教程方案</strong> - 或小型的<strong>个人的活动</strong>，然后与世界各地其他的教育工作者和导师分享。",
-    "Multimedia with Popcorn": "Multimedia with Popcorn",
-    "Home page": "主页",
-    "starterMakesDesc": "想现在就开始，但是不知道该做什么？你可以重组这些工程项目！",
-    "Surabaya, Indonesia": "Surabaya, Indonesia",
-    "Introduce your community to hacking": "让你的社区熟悉黑客行为",
-    "See how above": "想知如何，请看<a href='#submit-a-bug'>上面</a>。",
-    "Sign up for Webmaker announcement list": "报名注册<a href='//sendto.mozilla.org/page/s/sign-up-for-mozilla?source=default_signup'>Webmaker公告列表</a></strong>。",
-    "Submit your event": "提交你的活动",
-    "Webmaker's mentor community": "Webmaker社区的导师跨越了全球。为教学技术与其他技术人员，教育工作者和导师交流想法和创意新方法。",
-    "Become a Mentor": "成为导师",
-    "Link to registration page": "链接到注册页面",
-    "Resources": "Resources",
-    "Num of Attendees": "参加人数：&nbsp;",
-    "Get started": "开始",
-    "Webmaker Mentor": "Webmaker Mentor",
-    "Whiteboard:": "白色书写板",
-    "Home, cafe, library": "在家里，咖啡厅或图书馆",
-    "Sign in": "登录",
-    "Summer of Making and Connecting": "夏季的制作和连接",
-    "Find an event near you or host your own": "查找你附近的活动或举办自己的活动",
-    "indexDesc": "We're a global community that creates the web by making, teaching and remixing. Check out this week's most inspiring Makes and <a href='/{{localeInfo.lang}}/login'>sign up</a> to create your own.",
-    "Start Planning": "Start Planning",
-    "Enjoy!": "尽情享受吧！",
-    "Registration Link": "注册",
-    "Mentor": "导师",
-    "Mentor an eager learner": "一个渴望学习的良师益友",
-    "Yoe One, Mozilla Rep": "Yoe One, Mozilla Rep",
-    "Hive NYC Storymakers, Brooklyn Public Library": "Hive NYC Storymakers, Brooklyn Public Library",
-    "PartyDontForgetHeader": "不要忘记",
-    "Help": "帮助",
-    "Like-1": "喜欢",
-    "Webmaker mentors are defining the future": "Webmaker 导师用创新的教育方式，兴趣驱动，以学生为中心的教学内容定义了教育和科技的未来。",
-    "Built with": "内置",
-    "an alternate version of a controversial webpage": "一个有争论网页的另一版本",
-    "activity": "活动",
-    "Event location": "活动地点",
-    "OFOContact": "联系我们",
-    "9 Ways to Get Involved with Webmaker": "参与Webmaker的9种方式",
-    "Create With Others": "创作项目",
-    "Info": "Info",
-    "School, library": "在学校，图书馆或易适应的场地",
-    "maker-story-brooklyn": "We remixed our favorite stories using digital media and the web.",
-    "toolsPMDesc": "在浏览器上，Popcorn Maker能够帮助你轻松的把网络视频、音频和图像组合到好的插件里，然后你可以把它们嵌入到其它的网页上。 从网站上拖放你想要的内容，然后添加自己的意见和链接。 在Popcorn Maker的视频上，每个视图都是动态的和有着很多独特的链接。",
-    "Sign up for your Webmaker account.": "注册你的Webmaker帐户。",
-    "OFOStartHereDesc": "从阅读我们的<a href='https://wiki.mozilla.org/Maker_Party/Get_involved'>维基项目介绍</a>开始。",
-    "PartyDontKnowLinkAct1": "Popcorn教程",
-    "PartyDontKnowLinkAct3": "野外游戏",
-    "PartyDontKnowLinkAct2": "制作影片间距",
-    "Hack Jam Logo": "哈克果酱徽标",
-    "Submitting...": "提交中",
-    "Prefix": "Prefix",
-    "Find or host an event paragraph": "From hack jams to pop ups to the global <a href='/{{localeInfo.lang}}/party'>Maker Party</a>, there's an event to suit every interest. Search for one near you or host your own — we have <a href='/{{localeInfo.lang}}/event-guides'>guides</a> to show you how.",
-    "Get Involved": "参与",
-    "Like-0": "喜欢=（",
-    "Bring together local organizations": "把当地组织汇集在公平科技设置里",
-    "Claim your Webmaker domain.": "申请您的 Webmaker 域名。",
-    "Our team uses an issue tracker": "我们的团队使用名为 Bugzilla 的问题跟踪器来存档错误和检测修复情况。",
-    "OFOShareDesc": "在活动期间，使用 <a href='https://mozteach.makes.org/thimble/what-i-made-maker-party'>这个模板</a>来请求参加者分享他们的创作",
-    "Event Link": "活动链接",
-    "Event added": "谢谢你！你的活动已被添加。",
-    "If you don’t see the Whiteboard field": "If you don’t see the Whiteboard field, make sure the advanced options are showing.",
-    "OFOPhotoDesc": "我们喜爱照片！通过<a href='mailto:makerparty@mozilla.org'>发电子邮件给我们</a>来分享你们活动的照片。",
-    "Like-n": "喜好",
-    "a personalized greeting card": "一款个性化的贺卡",
-    "Start Date": "Start Date",
-    "toolsThimbleDesc": "Thimble makes it ridiculously simple to create and share your own web pages. Write and edit HTML and CSS right in your browser, then instantly preview your work. Host and share your finished projects with a single click. Perfect for beginners and experts alike.",
-    "PlanningAnEventDesc": "这个部分为你的活动提供重要链接和行动计划的概述。别忘了给你派对订购<strong>免费</strong>的Webmaker机构。",
-    "OFOPhoto": "Take photos",
-    "From coding your first line of HTML to building apps": "Events are happening all around the world from workshops, design sprints and code-a-thons to teen tech bashes and father-daughter hack jams. Find a party near you using our global events map.",
-    "Events": "活动",
-    "Boston, USA": "Boston, USA",
-    "Updated": "Updated",
-    "Mozilla Rep": "Mozilla Rep",
-    "Tags": "标签",
-    "Show Off Your Work": "Can't find an event? Host your own using our guides!",
-    "Maker Party": "Maker 聚会",
-    "Hive Pop-Up Planning Guide": "蜂巢弹出策划指南",
-    "Filter projects by...": "Filter projects by...",
-    "New User": "新用户",
-    "Make something amazing on the web": "Thank you for joining our global party and making something amazing on the web",
-    "PartyDontKnowLink4": "Postcard for a Friend",
-    "PartyDontKnowLink2": "Vintage Newspaper",
-    "PartyDontKnowLink3": "Motion picture show!",
-    "PartyDontKnowLink1": "连环画",
-    "About Unnati": "Unnati participated in our Summer Code Party in 2012 where she learned to remix her own web pages using Thimble and Popcorn. She now shares her knowledge by teaching her friends, family and classmates basic HTML.",
-    "OFOOrder": "订购装饰",
-    "Find a willing volunteer": "<strong>Find a willing volunteer</strong> and walk them through our survey. Let them drive, but ask them to speak their thoughts aloud so you can write them in the form.",
-    "maker-story-manilla": "I hosted an all-girl Maker Party where women can learn how to teach the wonders of the web.",
-    "Use our Tools": "Use our Tools",
-    "No makes found.": "No makes found. Did you mean to search by title?",
-    "Popcorn Maker": "Popcorn Maker",
-    "Sign out": "Sign out",
-    "Be on the cutting edge.": "Be on the cutting edge.",
-    "Mentor an eager learner paragraph": "As part of Mozilla’s non-profit <a href='http://www.mozilla.org/en-GB/about/manifesto/'>mission</a>, our goal is to spread digital literacy and skills through open collaboration. Mentoring is key to accomplishing this on a global scale. Webmaker mentors help others learn digital skills and share creative new ways for teaching technology.",
-    "No makes were found!": "No makes were found!",
-    "Demonstrate cool web ideas": "Demonstrate cool web ideas",
-    "learn-cta-bullet-1": "Dive into a <a href=\"/{{localeInfo.lang}}/starter-makes\">starter project</a>.",
-    "learn-cta-bullet-3": "See what others are making. More than <span class=\"total-makes-shared\"></span> projects shared!",
-    "learn-cta-bullet-2": "<a href=\"/{{localeInfo.lang}}/tools\">starts from scratch.</a> Make your own web page, interactive video or remix.",
-    "Provide fun hands-on activities": "Provide fun hands-on activities",
-    "guide": "guide",
-    "Connect through social media": "<strong>Connect through social media</strong> and see what people are making, follow events from around the world and check out new Webmaker projects by visiting our <a href='//mozillawebmaker.tumblr.com/'>Tumblr</a>, <a href='//twitter.com/webmaker'>Twitter</a>, <a href='//www.facebook.com/mozilla'>Facebook</a>, <a href='//www.flickr.com/photos/mozilladrumbeat/favorites/'>Flickr</a>, <a href='//www.youtube.com/mozillawebmakers'>YouTube</a> and <a href='//blog.webmaker.org/'>our blog</a>.",
-    "Remixed from": "Remixed from",
-    "My Profile": "My Profile",
-    "Commitments": "Commitments",
-    "Joining our weekly community calls": "<a href='https://wiki.mozilla.org/Webmakers/Community_Calls'>Joining our weekly community calls</a> to connect with mentoring community.",
-    "When you file your bug": "当你提交错误时，务必把<strong>&quot;意见反馈&quot;</strong>放在状态板区域里，只有这样我们才能找到它。 如果您没有看到状态板选项，请确认高级选项是显示的。",
-    "make": "make",
-    "Log in to like": "Please log in to Webmaker to show some love!",
-    "teach-cta": "Teach the web with interactive tools, activities and lessons plans that are free, hackable and fun",
-    "Try the Goggles": "Try the Goggles now",
-    "2-10 participating organizations": "2-10 participating organizations",
-    "eventDesc": "We've got guides to help you plan. What are you in the mood to try?",
-    "End Date": "End Date",
-    "About": "About",
-    "OFOAddEventDesc": "Add your event to our global <a href='/{{localeInfo.lang}}/events'>event map</a>.",
-    "Hive Pop up Logo": "蜂房弹出徽标",
-    "bug doesn’t necessarily mean there’s something wrong": "<strong>And just because it’s called a &quot;bug&quot; doesn’t necessarily mean there’s something wrong</strong>; it can be an idea you have for a feature, a note about how much you like something or a non-technical suggestion for improvments.",
-    "Webmaking made easy": "Webmaking made easy",
-    "Start the survey now": "Start the survey now",
-    "ID": "ID",
-    "Total Events": "活动总数",
-    "Webmaker Community": "Webmaker Community",
-    "Sort by": "Sort by",
-    "1-5 friends or family members": "1-5 friends or family members",
-    "Youth mentor": "青年导师",
-    "a custom homepage for the New York Times": "a custom homepage for the New York Times",
-    "DetailsShareTwitterID": "网页制作者",
-    "EEVR warning": "This link will take you to an external event registration service, such as Eventbrite.",
-    "teachtemplateHeader": "Make and share your own kits for teaching the web.<br>",
-    "From newsletters to community calls": "From newsletters to community calls, there are many ways you can join our community.",
-    "Resource Templates": "Resource Templates",
-    "PartyDontForgetLearn2Tag": "Learn how to tag on Webmaker",
-    "Mentors help others learn": "Mentors help others learn  digital skills by providing direct feedback to learners of any age from around the world. There is no formal application or process to become a webmaking mentor. Instead, we invite you to simply get involved by:",
-    "EPS": "EPS",
-    "Tag your work with #makerparty": "You don't have to have to be a pro to host your own party. From groups of two to groups of hundreds, we have guides to help you plan for events where you can teach or learn with your peers. Don't forget to add your event to the <a href='/{{localeInfo.lang}}/events/'>map</a> and share details with us along the way.",
-    "Hack Jam Planning Guide": "Hack Jam Planning Guide",
-    "Fill out our survey paragraph": "We've put together a detailed <a href='http://mzl.la/survey-summer2013' target='_blank'>survey</a> so you can let us know why you're happy, confused or even...(gulp)...angry with our site. This survey will take about 20 minutes to complete but  we'll send you a free Webmaker t-shirt when you're done! Everyone is welcome to complete the survey – even if you're brand new to Webmaker.",
-    "Event Map": "活动图",
-    "Host a user testing session": "Host a user testing session",
-    "Learn more.": "详细了解。",
-    "Contact with your questions": "Contact <a href='mailto:makerparty@mozilla.org'>makerparty@mozilla.org</a> with your questions.",
-    "support our work": "Please <a href='//sendto.mozilla.org/page/contribute/join-mozilla?source=join_link'>support our work</a>.",
-    "Maker Party is a part of the MacArthur": "Maker Party is a part of the MacArthur Foundation's Make Summer campaign.",
-    "Greenhill Secondary School": "<a href=\"https://reps.mozilla.org/e/webmaker-genopen-school-tour-uganda/\">Greenhill Secondary School</a>, Kampala, Uganda",
-    "Events Desc": "查找你附近的活动或举办自己的活动",
-    "Delete Event": "Delete Event",
-    "Organized by": "Organized by&nbsp;",
-    "Updated at": "Updated at",
-    "Teach Desc": "Teach the world web literacy and webmaking.",
-    "you": "you",
-    "advanced": "advanced",
-    "About Us": "About Us",
-    "Share": "Share",
-    "Unnati": "Unnati",
-    "MIT Media Lab": "MIT Media Lab",
-    "Makers making things": "Makers making things",
-    "Learn more about Persona": "Learn more about <a href='http://www.mozilla.org/en-US/persona/'>Persona.</a>",
-    "Our tools, events and teaching guides": "Our <a href='/{{localeInfo.lang}}/tools'>tools</a>, <a href='/{{localeInfo.lang}}/events'>events</a> and <a href='/{{localeInfo.lang}}/teach'>teaching guides</a> allow webmakers to not only create the content that makes the web great, but &mdash; perhaps more importantly &mdash; understand how the web works.",
-    "Editor": "编辑者",
-    "on Bugzilla!": "on Bugzilla!",
-    "A Kitchen Party is a fun way to": "厨房派对是一种有趣的方式来：",
-    "My Settings": "My Settings",
-    "Supercharge web video": "Supercharge web video",
-    "PartyDontForgetDesc": "Tag your work with <a href='/{{localeInfo.lang}}/search?type=tags&q=makerparty'>#makerparty</a> and inspire others. Share your knowledge, show off your creation and feel the love from the Webmaker community.",
-    "Downloads": "Downloads",
-    "Hi": "嗨",
-    "J Faye Tandog": "J Faye Tandog",
-    "Help with beta-testing & quality assurance": "Help with beta-testing & quality assurance",
-    "Sign up for the event": "Sign up for the event",
-    "starterMakesHeader": "Hey Makers!",
-    "Kitchen Party": "厨房派对",
-    "Creating the web is the heart of our work": "Creating the web is the heart of our work. We build tools like <a href='//thimble.webmaker.org'>Thimble</a>, <a href='//goggles.webmaker.org'>X-Ray Goggles</a> and <a href='//popcorn.webmaker.org'>Popcorn Maker</a> that allow people to create amazing content while  peeking under the hood of the internet, getting familiar with all the moving parts and getting their hands dirty with foundational elements like HTML, CSS and JavaScript.",
-    "Hive Pop up": "蜂房弹出",
-    "Claim your webmaker space": "认领你的网页制作者空间",
-    "by": "by",
-    "Connecting with other mentors": "与其他导师联系",
-    "noMakes": "You don't have any {{view}} makes",
-    "The fastest way to get help": "The fastest way to get help, offer help and connect with other mentors.",
-    "maker-story-india": "I went to teach, but in the end I learned a lot.",
-    "We consider digital literacy": "We consider <a href='https://wiki.mozilla.org/Learning/WebLiteracyStandard'>digital literacy</a> a critical skill just like reading, writing and math.",
-    "or": "or",
-    "Welcome to Webmaker-Mozilla": "Welcome to Webmaker &mdash; a <a href='https://www.mozilla.org/en-US/mission/'>Mozilla</a> project dedicated to helping you create something amazing on the <a href='/{{localeInfo.lang}}'>web</a>.",
-    "Make": "Make",
-    "From June 15 to September 15": "From June 15 to September 15, nearly 60,000 people around the world met up, shared their skills and made amzing things on the web at the 2013 Maker Party. Thank you to the thousands of teachers, learners, friends, families and organizations across the globe who united to celebrate what we can make (and break!) on the web. <a href='https://blog.webmaker.org/maker-party-by-the-numbers'>Read about the success of Maker Party 2013</a>.",
-    "Teach &amp; Learning": "Teach &amp; Learning",
-    "OFOReport": "汇报",
-    "teach-cta-bullet-4": "<a href=\"/{{localeInfo.lang}}/new\">Join our global community</a> of mentors, educators and makers.",
-    "teach-cta-bullet-2": "Create and share your own <a href=\"/{{localeInfo.lang}}/teach-templates\">teaching kit.</a>",
-    "teach-cta-bullet-3": "Explore Mozilla's new <a href=\"/{{localeInfo.lang}}/standard\">Web Literacy Standard.</a>",
-    "How to become a mentor": "How to become a mentor",
-    "teach-cta-bullet-1": "<a href=\"/{{localeInfo.lang}}/teach\">Use our activities, teaching guides and curriculum.</a> They're free, hackable and fun!",
-    "an animated gif with sound": "an animated gif with sound",
-    "15 minutes - 1 hour": "15 minutes - 1 hour, No preparation needed",
-    "Collaboratively build or improve": "Collaboratively build something new or improve something that already exists",
-    "User": "User",
-    "Why become a mentor?": "Why become a mentor?",
-    "Remixes with X-Ray Goggles": "Remixes with X-Ray Goggles",
-    "Webpages with Thimble": "Webpages with Thimble",
-    "Party Partners": "第三方合作伙伴",
-    "privacy-desc": "I'm okay with you handling this info as you explain in your",
-    "Donate to Webmaker": "Donate to Webmaker",
-    "Maker Party Desc": "From now to September 15, join other webmakers in a global Maker Party.",
-    "Remix a project": "Remix a make",
-    "Error": "Error",
-    "Quick links:": "Quick links:",
-    "Teach the web": "Teach the web",
-    "Search makes": "Search makes",
-    "Load more": "Load more",
-    "learn-cta": "Learn web skills by making, breaking and mashing up the unexpected",
-    "maker-story-mit": "Webmaker shows how malleable and sharable the web is &ndash; helping people not only <em>use</em> tech, but also become creators of it.",
-    "Really delete?": "Really delete?",
-    "Donate": "Donate",
-    "Add an Event": "Add an Event",
-    "connect in many ways.": "We're a big community and we connect in many ways.",
-    "Video remixing and open source for youth": "Video remixing and open source for youth",
-    "OFOContactDesc": "Still have questions? Email us at <a href='mailto:makerparty@mozilla.org'>makerparty@mozilla.org</a>",
-    "Blog": "Blog",
-    "Bonny Island, Nigeria, July 2013": "Bonny Island, Nigeria, July 2013",
-    "Mahboob ur Rahman, Webmaker Mentor": "Mahboob ur Rahman, Webmaker Mentor",
-    "The web is still open.": "The web is still open.",
-    "Submit a bug for Thimble": "给Thimble提交漏洞",
-    "Templates": "Templates",
-    "Description": "描述",
-    "Visit our communications wiki": "Visit our <a href='//wiki.mozilla.org/Webmakers/Communications'>communications wiki</a> to find even more places you can reach us.",
-    "Join the Webmaker newsgroup": "Join the <a href='https://lists.mozilla.org/listinfo/webmaker'>Webmaker newsgroup.</a>",
-    "Make and Learn": "Make and Learn",
-    "participate in user testing paragraph": "参与用户测试，反馈，或者帮助评测。你的测试和想法将会优化 Mozilla Webmaker 产品，并且影响它的发展方向。",
-    "Teach": "Teach",
-    "Like": "喜欢",
-    "Edit": "编辑",
-    "TeachWebLitButton": "Discover the Web Literacy Standard",
-    "Hive Pop-Up": "蜂房弹出",
-    "The worldwide Maker Party will bring people together": "From coding your first line of HTML to building innovative apps, Maker Party is your chance to connect with a global community of creators. The easiest way to join the party is to build something yourself! Take a project from scratch or remix a project and make it your own.",
-    "Change Event Picture": "Change Event Picture",
-    "With this knowledge": "With this knowledge, we can make a web without limits. That's the philosophy behind webmaker.org.",
-    "About Jon": "Jon organized a 48-hour hack jam in Dundee, Scotland, exploring everything from a “Twitter bird” made out of paper and wire to hooking Google Maps up to an arcade joystick.",
-    "PartyDontKnowDesc": "Why not try following the easy steps and remixing one of these makes below.",
-    "Anyone can submit a bug.": "Anyone can submit a bug.",
-    "Find or host an event": "Find or host an event",
-    "Engage by title": "Use an awesome title so people will come!",
-    "X-Ray Desc": "See how the web works",
-    "OFOAddEvent": "Add your event to the map",
-    "Describe your event": "Describe your event",
-    "Sign up": "Sign up",
-    "new Webmaker tools and projects": "Be the first to try out new <a href='/{{localeInfo.lang}}/tools'>Webmaker tools</a> and projects."
-}
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="Transifex is a modern localization workflow and crowdsourcing platform, suited for software and dynamic content translation." />
+
+  
+
+  <title>Transifex - Localization platform | Page not found</title>
+
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,700,600&subset=greek,latin-ext' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="stylesheet" href="https://ds0k0en9abmn1.cloudfront.net/static/CACHE/css/f0e3caf48a35.css" type="text/css" media="screen" />
+  
+
+  
+
+  
+
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var csrf_token = 'oCk0MgUNVRf4t2jdOF7lBKCOwmAPSBO5';
+    if (typeof jQuery == 'undefined') {
+      document.write(unescape("%3Cscript src='https://ds0k0en9abmn1.cloudfront.net/static/plugins/jquery.min.b8d64d0bc142.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+  </script>
+  
+
+  <link rel="shortcut icon" href="https://ds0k0en9abmn1.cloudfront.net/static/images/favicon.deeaf21cb703.ico" type="image/x-icon" />
+
+  
+
+  
+
+  
+    <script type="text/javascript" src="https://ds0k0en9abmn1.cloudfront.net/static/js/analytics.min.143ede683b80.js"></script>
+    <script type="text/javascript">
+      if (typeof TRANSIFEX == "undefined" || !TRANSIFEX) {
+        var TRANSIFEX = {};
+      }
+
+      TRANSIFEX.analytics = true;
+
+      (function() {
+        if (!TRANSIFEX.analytics) {
+          return;
+        }
+
+        analytics.initialize({
+          'Google Analytics': 'UA-21799942-2',
+          'KISSmetrics': '10eeeadeb8618f2e054d68b6e21a796e27f1dd7d'
+        });
+
+        
+
+        // neccessary for top- and sub-domain tracking
+        _gaq.push(['_setDomainName', 'none']);
+      })();
+    </script>
+  
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+
+<body class="loggedout ">
+<div id="global-container">
+  <div id="global-content-wrapper">
+
+    <div id="global-header-container">
+      <div id="global-header">
+        <div class="wrapper" >
+          <a id="transifex-logo" class="grid_2 omega" href="/" title="Go to start page"></a>
+
+          
+
+          
+          
+            <div class="sgn-btn"><a id="gb-signup-btn" href="/signup/">Sign up free</a></div>
+          
+          <ul id="global-nav">
+          
+            
+            
+            <li><a href="/features/translation-management/" title="A tour to Transifex" class= " ">FEATURES</a></li>
+            <li><a href="/plans/" title="The pricing plans we offer" class= " ">PRICING</a></li>
+            <li><a href="/customers/" title="Our customers" class="">CUSTOMERS</a></li>
+            <li><a href="/connect/projects/" title="Explore our community" class="">EXPLORE</a></li>
+            <li><a id="gb-login-btn" href="/signin/?next=/api/2/project/webmaker/resource/webmaker/translation/zh_CN/content/" title='Log in' class="">LOG IN</a></li>
+          
+          </ul>
+
+          
+        </div>
+      </div>
+
+      <div id="notification-container">
+        <div class="icon waiting" onClick="$('#notification-container').slideUp()"></div>
+      </div>
+
+      
+
+      <div id="header-container">
+        <div id="header-area">
+          <div class="wrapper clearfix">
+            
+              
+              
+                
+              
+              <div id="wide-title" class="clearfix">
+                <div id="content_title" class="grid_9" >
+  <h2 class="pagetitle">Page not found</h2>
+</div>
+                <div id="content_header_sec" class="grid_3"></div>
+              </div>
+            
+          </div>
+        </div>
+        <div id="header-menu">
+          
+        </div>
+      </div>
+
+		</div>
+
+
+
+
+  
+    <div class="wrapper clearfix">
+      <div id="content_main" class="grid_12">
+      
+        
+      
+
+      
+
+<div class="grid_12">
+<p>Looks like you followed a bad link. If you think it's our fault, please <a href='http://code.transifex.com/transifex/issues/'>let us know</a>.</p>
+
+
+<p>Here's a link to the <a href="/">homepage</a>. You know, just in case.</p>
+</div>
+
+
+      </div>
+    </div>
+  
+
+
+
+
+</div>
+
+</div>
+
+<div id="footer">
+
+  <div class="wrapper">
+    
+    <div class="clearfix">
+      <div id="footer-nav" class="grid_12">
+        <div class="grid_3 alpha">
+          <h6>OUR PRODUCT</h6>
+          <ul class="nomargin">
+            <li><a href="/features/translation-management/" title="Read more about how Transifex helps localization projects">Features</a></li>
+            <li><a href="/plans/" title="Plans and Billing">Pricing</a></li>
+
+            <li><a href="http://support.transifex.com/customer/portal/topics/440187-transifex-client/articles" target="_blank" title="Transifex client app">Client app</a></li>
+            <li><a href="http://support.transifex.com/customer/portal/topics/440186-api/articles" target="_blank" title="Integrate with Transifex using its Application Programmable Interface">API</a></li>
+          </ul>
+        </div>
+
+        <div class="grid_3">
+        <h6>OUR COMPANY</h6>
+          <ul class="nomargin">
+            <li><a href="/about/" title="About the Transifex team">About us</a></li>
+            <li><a href="/jobs/" title="Open positions">Jobs</a></li>
+            <li><a href="/customers/" title="Our partners">Customers</a></li>
+            <li><a href="https://www.transifex.com/press/" title="Press">Press</a></li>
+          </ul>
+        </div>
+
+        <div class="grid_3">
+          <h6>KEEP IN TOUCH</h6>
+          <ul class="nomargin">
+            <li> <span></span><a href="http://blog.transifex.com/" title="Read about news and updates on our blog" target="_blank">Our blog</a></li>
+            <li><span></span><a href="http://www.twitter.com/transifex" title="Read more on twitter" target="_blank">Twitter</a></li>
+            <li><span></span><a href="https://www.facebook.com/transifex" title="Like us on Facebook" target="_blank">Facebook</a></li>
+          </ul>
+        </div>
+
+        <div class="grid_3 omega">
+          <h6>GET ANSWERS</h6>
+          <ul class="nomargin">
+            <li><a href="http://support.transifex.com/" target="_blank" title="Transifex documentation">Documentation</a></li>
+            <li><a class="desk-cta desk-text" href="javascript:;" title="Contact" target="_blank" id="js-contact-us">Contact us</a></li>
+            <li><a href="/whitepaper/" title="Localization white paper">Learn about localization</a></li>
+
+            <!-- The lightbox -->
+            <div id="desk-support-box">
+               <a id="desk-support-box-close">
+                <img src="https://ds0k0en9abmn1.cloudfront.net/static/plugins/facebox/closelabel.1192beca4548.png" title="close">
+               </a>
+           </div>
+           <div id="desk-darkness"></div>
+
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    
+  </div>
+  <div class="wrapper">
+    <div id="footer-sub" class="grid_12">
+      <ul class="nomargin clearfix footerll">
+        <li>
+         Transifex&nbsp;&copy;&nbsp;2013&nbsp;&nbsp;&#183;&nbsp;
+        </li>
+        <li>
+          <div style="display:inline-block;">
+          
+          
+          <form id="global-language-chooser" action="/i18n/setlang/"  method="post"><input type='hidden' name='csrfmiddlewaretoken' value='oCk0MgUNVRf4t2jdOF7lBKCOwmAPSBO5' />
+            <input name="next" type="hidden" value="/api/2/project/webmaker/resource/webmaker/translation/zh_CN/content/"  />
+            <div>
+              <select id="language_switch" name="language" class="styled">
+              
+                <option value="be" >Belarusian</option>
+              
+                <option value="cs" >Czech</option>
+              
+                <option value="de" >German</option>
+              
+                <option value="el" >Greek</option>
+              
+                <option value="en" selected="selected">English</option>
+              
+                <option value="es" >Spanish (Castilian)</option>
+              
+                <option value="eu-es" >Basque (Spain)</option>
+              
+                <option value="fr" >French</option>
+              
+                <option value="hi" >Hindi</option>
+              
+                <option value="it" >Italian</option>
+              
+                <option value="ja" >Japanese</option>
+              
+                <option value="ko" >Korean</option>
+              
+                <option value="nl" >Dutch</option>
+              
+                <option value="pl" >Polish</option>
+              
+                <option value="pt" >Portuguese</option>
+              
+                <option value="pt-br" >Portuguese (Brazilian)</option>
+              
+                <option value="ru" >Russian</option>
+              
+                <option value="sk" >Slovak</option>
+              
+                <option value="tr" >Turkish</option>
+              
+                <option value="uk" >Ukrainian</option>
+              
+                <option value="zh-cn" >Chinese (China)</option>
+              
+                <option value="zh-tw" >Chinese (Taiwan)</option>
+              
+              </select>
+            </div>
+          </form>
+          
+        </div>
+      </li>
+    </ul>
+
+    <ul class="nomargin footerrl">
+      <li>
+       <a href="http://www.transifex.com/about/privacy/" title="Privacy Policy">Privacy policy</a>&nbsp;&nbsp;&#183;&nbsp;
+      </li>
+      <li>
+       <a href="http://www.transifex.com/about/terms/" title="Terms of Service">Terms of use</a>
+      </li>
+    </ul>
+    </div>
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript" src="https://ds0k0en9abmn1.cloudfront.net/static/CACHE/js/a814cf3f0b53.js"></script>
+<script type="text/javascript">
+$.facebox.settings.loadingImage = 'https://ds0k0en9abmn1.cloudfront.net/static/images/loading.86b872be7c18.gif';
+$.facebox.settings.closeImage = 'https://ds0k0en9abmn1.cloudfront.net/static/plugins/facebox/closelabel.1192beca4548.png';
+</script>
+
+<script type="text/javascript">
+  window.txStatsSettings = {
+    url: '/analytics/'
+  }
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6147.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","48a9a3f51e","519465","ZldQbEdSXxVWVxBQW18ddE1bUEUPWFpLXV5QXFVXG0VYA0BHSl1RV1NHVEFACxZWUwFmWl5GbV5aRl8C",0,76,new Date().getTime(),"","","","",""]);</script></body>
+</html>

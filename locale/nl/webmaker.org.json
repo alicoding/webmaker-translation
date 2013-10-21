@@ -33,7 +33,7 @@
   
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
   <script type="text/javascript">
-    var csrf_token = 'G8QXu6HfS98FPLjeKv3P4bZJqv61tu2s';
+    var csrf_token = 'RjRLQ99WlMQfxK3ZLaMLlPE1ba6TI06E';
     if (typeof jQuery == 'undefined') {
       document.write(unescape("%3Cscript src='https://ds0k0en9abmn1.cloudfront.net/static/plugins/jquery.min.b8d64d0bc142.js' type='text/javascript'%3E%3C/script%3E"));
     }
@@ -97,7 +97,7 @@
             <li><a href="/plans/" title="The pricing plans we offer" class= " ">PRICING</a></li>
             <li><a href="/customers/" title="Our customers" class="">CUSTOMERS</a></li>
             <li><a href="/connect/projects/" title="Explore our community" class="">EXPLORE</a></li>
-            <li><a id="gb-login-btn" href="/signin/?next=/api/2/project/webmaker/resource/webmaker/translation/te/content/" title='Log in' class="">LOG IN</a></li>
+            <li><a id="gb-login-btn" href="/signin/?next=/api/2/project/webmaker/resource/webmaker/translation/nl/content/" title='Log in' class="">LOG IN</a></li>
           
           </ul>
 
@@ -235,8 +235,8 @@
           <div style="display:inline-block;">
           
           
-          <form id="global-language-chooser" action="/i18n/setlang/"  method="post"><input type='hidden' name='csrfmiddlewaretoken' value='G8QXu6HfS98FPLjeKv3P4bZJqv61tu2s' />
-            <input name="next" type="hidden" value="/api/2/project/webmaker/resource/webmaker/translation/te/content/"  />
+          <form id="global-language-chooser" action="/i18n/setlang/"  method="post"><input type='hidden' name='csrfmiddlewaretoken' value='RjRLQ99WlMQfxK3ZLaMLlPE1ba6TI06E' />
+            <input name="next" type="hidden" value="/api/2/project/webmaker/resource/webmaker/translation/nl/content/"  />
             <div>
               <select id="language_switch" name="language" class="styled">
               
@@ -335,5 +335,5 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","48a9a3f51e","519465","ZldQbEdSXxVWVxBQW18ddE1bUEUPWFpLXV5QXFVXG0VYA0BHSl1RV1NHVEFACxZWUwFmWl5GbV5aRl8C",0,70,new Date().getTime(),"","","","",""]);</script></body>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","48a9a3f51e","519465","ZldQbEdSXxVWVxBQW18ddE1bUEUPWFpLXV5QXFVXG0VYA0BHSl1RV1NHVEFACxZWUwFmWl5GbV5aRl8C",0,100,new Date().getTime(),"","","","",""]);</script></body>
 </html>
