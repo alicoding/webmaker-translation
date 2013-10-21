@@ -1,0 +1,21 @@
+{
+    "Username": "사용자 이름",
+    "I create an event": "이벤트를 만들때",
+    "Looks like that isnt your email": "고객님의 이메일이 아닌 것 같습니다.",
+    "Send me emails when": "다음 상황일 때 이메일을 받습니다 :",
+    "Language": "언어",
+    "I agree to your terms": "<a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>이용 약관</a>과 a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>조건</a>에 동의합니다.",
+    "Your user account was deleted!": "고객님의 사용자 계정이 삭제 되었습니다!",
+    "Email": "Email",
+    "Delete account?": "계정을 삭제하시겠습니까?",
+    "Are you sure you want to leave?": "정말 탈퇴하기를 원하십니까?",
+    "Hi": "안녕하세요,",
+    "Delete me forever": "계정을 완전히 삭제합니다.",
+    "Create my account": "계정을 생성하니다.",
+    "Enter your email to confirm:": "확인을 위해 고객님의 이메일을 입력해주세요.",
+    "Display username": "사용자 이름을 화면에 표시",
+    "Your preferences failed to save": "환경설정을 저장하는 데 실패하였습니다.",
+    "Claim your webmaker space": "webmaker 공간을 요청합니다.",
+    "Your preferences have been saved": "환경설정이 저장되었습니다.",
+    "Send me email updates": "Mozilla Webmaker와 다른 프로젝트의 업데이트 소식을 메일로 보내주세요."
+}

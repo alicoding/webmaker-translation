@@ -1,0 +1,21 @@
+{
+    "Username": "Nama pengguna",
+    "I create an event": "Saya membuat acara",
+    "Looks like that isnt your email": "Sepertinya itu bukan surel Anda",
+    "Send me emails when": "Kirimi saya surel ketika",
+    "Language": "Bahasa",
+    "I agree to your terms": "Saya menyetujui <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/terms'>syarat</a> dan <a href='{{ AUDIENCE }}/{{localeInfo.lang}}/privacy'>ketentuan</a>",
+    "Your user account was deleted!": "Akun pengguna Anda telah dihapus!",
+    "Email": "Surel",
+    "Delete account?": "Hapus akun ?",
+    "Are you sure you want to leave?": "Yakin untuk meninggalkan?",
+    "Hi": "Halo",
+    "Delete me forever": "Hapus akun saya selamanya",
+    "Create my account": "Buat akun saya",
+    "Enter your email to confirm:": "Masukan surel Anda untuk konfirmasi:",
+    "Display username": "Tampilkan nama pengguna",
+    "Your preferences failed to save": "Preferensi Anda gagal disimpan",
+    "Claim your webmaker space": "Klaim ruang webmaker Anda",
+    "Your preferences have been saved": "Preferensi Anda telah disimpan",
+    "Send me email updates": "Kirimi saya surel pembaruan tentang Mozilla Webmaker dan proyek lainnya"
+}

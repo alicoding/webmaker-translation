@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "لقد وجدت خيط مفكوك!",
+    "errorMessage": "من فضلك استخدم <a href='https://webmaker.org/{{localeInfo.lang}}/search'>البحث</a> أو قم بزيارة <a href='https://webmaker.org/{{localeInfo.lang}}'>الصفحة الرئيسيّة</a>.",
+    "Remix": "تطويع",
+    "Made with": "تم صناعته بـ",
+    "Details": "التفاصيل",
+    "errorTitle": "عفوا، لقد وجدنا "
+}
