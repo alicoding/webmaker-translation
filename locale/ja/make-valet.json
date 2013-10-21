@@ -1,8 +1,0 @@
-{
-    "You found a loose thread!": "リンク先が途切れています！",
-    "errorMessage": "<a href='https://webmaker.org/{{localeInfo.lang}}/search'>ページを検索</a> するか、<a href='https://webmaker.org/{{localeInfo.lang}}'>ホームページへ移動</a> してください。",
-    "Remix": "リミックス",
-    "Made with": "作成ツール",
-    "Details": "詳細",
-    "errorTitle": "エラーが発生しました！"
-}

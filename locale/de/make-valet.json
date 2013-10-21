@@ -1,8 +1,0 @@
-{
-    "You found a loose thread!": "Sie fand einen losen Faden!",
-    "errorMessage": "Bitte benutzen Sie die <a href='https://webmaker.org/{{localeInfo.lang}}/search'>Suchfunktion</a> oder gehen Sie zu unserer <a href='https://webmaker.org/{{localeInfo.lang}}'>Startseite</a>.",
-    "Remix": "Remix",
-    "Made with": "Erstellt mit",
-    "Details": "Details",
-    "errorTitle": "Oops, du fandest einen"
-}

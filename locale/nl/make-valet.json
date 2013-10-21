@@ -1,8 +1,0 @@
-{
-    "You found a loose thread!": "Het lijkt alsof er een steekje los is!",
-    "errorMessage": "Probeer te <a href='https://webmaker.org/{{localeInfo.lang}}/search'>zoeken</a>, of ga naar onze <a href='https://webmaker.org/{{localeInfo.lang}}'>homepagina</a>.",
-    "Remix": "Remix",
-    "Made with": "Gemaakt met",
-    "Details": "Details",
-    "errorTitle": "Oeps! Er is iets misgegaan!"
-}

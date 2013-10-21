@@ -1,8 +1,0 @@
-{
-    "You found a loose thread!": "Είσαι στην άκρη του νήματος! Η σελίδα που ψάχνεις μάλλον δεν υπάρχει.",
-    "errorMessage": "Παρακαλώ δοκίμασε μία <a href='https://webmaker.org/{{localeInfo.lang}}/search'>αναζήτηση</a> ή πήγαινε στην <a href='https://webmaker.org/{{localeInfo.lang}}'>αρχική μας σελίδα</a>.",
-    "Remix": "Remix",
-    "Made with": "Δημιουργήθηκε με",
-    "Details": "Λεπτομέρειες",
-    "errorTitle": "Ωπ! Βρήκες ένα"
-}
